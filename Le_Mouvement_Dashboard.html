@@ -689,7 +689,7 @@ function p2RenderCharts(){
   // SBU stacked bars
   const sbuCont=document.getElementById('p2-sbu-bars');sbuCont.innerHTML='';
   const sbuKeys=['Mining','Manufacturing','UM6P','Fondation Phosboucraa','Corporate','InnovX'];
-  const pathwayDataKeys={'CAT A&B -> Demo Day':'AB','CAT C -> Pré-idéation':'C','CAT D -> Pré-idéation':'D','Quick Wins -> Move Up':'QW','CAT F -> Entrepreneurial Certificate':'F'};
+  const pathwayDataKeys={'CAT A&B -> Demo Day':'AB','CAT C -> Pré-idéation':'C','CAT D -> Pré-idéation':'D','Quick Wins -> Move Up':'QW','Entrepreneurial Certificate':'F'};
   sbuKeys.forEach(sbu=>{
     let tot=0;
     const segs=Object.entries(pathwayDataKeys).map(([dKey,pk])=>{
