@@ -368,32 +368,25 @@ let P2_STATS = {AB:{demarre:0,total:0},C:{demarre:0,total:0},D:{demarre:0,total:
 
 async function loadData() {
   try {
-    const data = await fetch('data.json').then(r=>r.json());
+    const resp = await fetch('data.json');
+    if (!resp.ok) throw new Error('data.json introuvable (code ' + resp.status + ')');
+    const data = await resp.json();
     P1 = data.p1.records;
     P2 = data.p2;
     if (data.p2.p2_stats) P2_STATS = data.p2.p2_stats;
     initDashboard();
   } catch(e) {
-    document.body.innerHTML = '<div style="padding:80px 40px;text-align:center;font-family:Roboto,sans-serif;background:#0A0A0A;min-height:100vh;display:flex;align-items:center;justify-content:center"><div><div style="font-size:56px;margin-bottom:24px">⚠️</div><h2 style="color:#7132F9;margin-bottom:14px;font-size:22px">Erreur de chargement</h2><p style="color:rgba(255,255,255,.6);font-size:14px;margin-top:12px">' + e.message + '</p></div></div>';
+    document.body.innerHTML = '<div style="padding:80px 40px;text-align:center;font-family:Roboto,sans-serif;background:#0A0A0A;min-height:100vh;display:flex;align-items:center;justify-content:center"><div><div style="font-size:56px;margin-bottom:24px">⚠️</div><h2 style="color:#7132F9;margin-bottom:14px;font-size:22px">Fichier data.json introuvable</h2><p style="color:rgba(255,255,255,.6);font-size:14px;line-height:1.7;max-width:480px;margin:0 auto 20px">Lancez le script Python pour générer les données :<br><code style="background:#1a1a2e;color:#C7F266;padding:8px 16px;border-radius:6px;display:inline-block;margin-top:8px">python transform.py</code></p><p style="color:rgba(255,255,255,.3);font-size:11px;margin-top:16px">' + e.message + '</p></div></div>';
   }
 }
 
-function initDashboard() {
-  p1BuildChips();
-  p1Render();
-  p2BuildChips();
-  p2RenderCards();
-  p2RenderCharts();
-  p2Render();
-  document.getElementById('hcount').textContent = P1.length.toLocaleString() + ' Situations';
-}
 
 // ─── TAB SWITCH ───
 function switchTab(n){
   document.querySelectorAll('.tab').forEach((t,i)=>t.classList.toggle('on',i===n-1));
   document.querySelectorAll('.page').forEach((p,i)=>p.classList.toggle('on',i===n-1));
   if(n===1){document.getElementById('hcount').textContent=P1.length.toLocaleString()+' Situations';}
-  else{document.getElementById('hcount').textContent=(P2.total||0).toLocaleString()+' Situations · Catégorisation';}
+  else{document.getElementById('hcount').textContent=(P2.situations?P2.situations.length:0).toLocaleString()+' Situations · Catégorisation';}
 }
 
 // ─── CHARTS REGISTRY ───
@@ -545,9 +538,9 @@ const P_COLORS={AB:'#7132F9',C:'#EF7136',D:'#F04AF0',QW:'#F6C449',F:'#757575'};
 const P_LABELS={AB:'CAT A&B → Demo Day',C:'CAT C → Pré-idéation',D:'CAT D → Pré-idéation',QW:'Quick Wins → Move Up',F:'CAT F → Entrepreneurial Mindset'};
 const P_ORG={AB:'Le HUB',C:'LaunchX',D:'LaunchX',QW:'MindX',F:'Le HUB'};
 const P_ORDER=['AB','C','D','QW','F'];
-// P2_STATS est initialisé en haut depuis data.json
-const SBU_DATA=P2.sbu_section;
-const SITE_DATA=P2.site_section;
+// P2_STATS chargé depuis data.json
+let SBU_DATA={};
+let SITE_DATA={};
 
 function p2KeyFromPathway(p){
   if(!p)return null;
@@ -584,8 +577,9 @@ function p2Render(){
   const el=id=>document.getElementById(id);
   // Hero KPI
   if(el('p2-ktot'))el('p2-ktot').textContent=tot;
-  const nbEl=document.getElementById('p2-notebar');
-  if(nbEl){const totAll=P2.situations.length;const sans=totAll-tot;nbEl.innerHTML='<strong>Périmètre :</strong> '+totAll+' situations avec parcours assigné · sans pathway : '+sans+'.';}
+  const _nb=document.getElementById('p2-notebar');
+  if(_nb){const _tot2=P2.situations.length;const _sans=_tot2-totAll;
+  _nb.innerHTML='<strong>Périmètre :</strong> '+_tot2+' situations avec parcours assigné'+(_sans>0?' · '+_sans+' sans pathway.':' · 100% catégorisées.');}
   if(el('p2-ktot-sub'))el('p2-ktot-sub').textContent=tot+' situations dans la sélection';
   // Other KPIs
   if(el('p2-kcat'))el('p2-kcat').textContent=tot;
@@ -689,7 +683,7 @@ function p2RenderCharts(){
   // SBU stacked bars
   const sbuCont=document.getElementById('p2-sbu-bars');sbuCont.innerHTML='';
   const sbuKeys=['Mining','Manufacturing','UM6P','Fondation Phosboucraa','Corporate','InnovX'];
-  const pathwayDataKeys={'CAT A&B -> Demo Day':'AB','CAT C -> Pré-idéation':'C','CAT D -> Pré-idéation':'D','Quick Wins -> Move Up':'QW','Entrepreneurial Certificate':'F'};
+  const pathwayDataKeys={'CAT A&B -> Demo Day':'AB','CAT C -> Pré-idéation':'C','CAT D -> Pré-idéation':'D','Quick Wins -> Move Up':'QW','CAT F -> Entrepreneurial Certificate':'F'};
   sbuKeys.forEach(sbu=>{
     let tot=0;
     const segs=Object.entries(pathwayDataKeys).map(([dKey,pk])=>{
@@ -736,7 +730,7 @@ function p2RenderCharts(){
   });
 
   // Org doughnut
-  const oc=P2.org_counts||{LaunchX:0,'Le HUB':0,MindX:0};const orgData=[{org:'LaunchX',n:oc['LaunchX']||0,col:'#7132F9'},{org:'Le HUB',n:oc['Le HUB']||0,col:'#EF7136'},{org:'MindX',n:oc['MindX']||0,col:'#F04AF0'}];
+  const _oc=P2.org_counts||{LaunchX:0,'Le HUB':0,MindX:0};const orgData=[{org:'LaunchX',n:_oc['LaunchX']||0,col:'#7132F9'},{org:'Le HUB',n:_oc['Le HUB']||0,col:'#EF7136'},{org:'MindX',n:_oc['MindX']||0,col:'#F04AF0'}];
   mkChart('p2-corg','doughnut',{labels:orgData.map(o=>o.org+' ('+o.n+')'),datasets:[{data:orgData.map(o=>o.n),backgroundColor:orgData.map(o=>o.col),borderWidth:3,borderColor:'#fff',hoverOffset:8}]},{responsive:true,maintainAspectRatio:false,plugins:{legend:{position:'bottom',labels:{font:{size:12,family:'Roboto'},padding:14,usePointStyle:true,pointStyleWidth:10}},datalabels:{display:true,color:'#fff',font:{size:13,weight:'900',family:'Roboto'},formatter:(v,ctx)=>{const t=ctx.chart.data.datasets[0].data.reduce((a,b)=>a+b,0);return v+' ('+(v/t*100).toFixed(0)+'%)';}}},cutout:'52%'});
 }
 
@@ -807,6 +801,17 @@ function renderPagination(id,page,totalPages,cb){
 function esc(s){if(!s)return '';return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
 
 // ─── INIT ───
+function initDashboard() {
+  SBU_DATA=P2.sbu_section;
+  SITE_DATA=P2.site_section;
+  p1BuildChips();
+  p1Render();
+  p2BuildChips();
+  p2RenderCards();
+  p2RenderCharts();
+  p2Render();
+  document.getElementById('hcount').textContent = P1.length.toLocaleString() + ' Situations';
+}
 loadData();
 </script>
 </body>
