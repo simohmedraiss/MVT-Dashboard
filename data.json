@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16 15:47",
+  "generated_at": "2026-03-16 15:51",
   "file_date": "16/03/2026",
   "p1": {
     "records": [
@@ -9509,7 +9509,7 @@
       },
       {
         "name": "WATHER SAVER",
-        "lead": "Hassane GOUMRHAR EL",
+        "lead": "El Hassane GOUMRHAR",
         "desc": "Economiseur des eaux en récupérant le rinçage des machines à laver (dans la plupart des cas propre a 70%) l eau des douches (a l attente d'eau chaude ) le…",
         "status": "discarded",
         "stage": "Ideation",
@@ -9541,7 +9541,7 @@
       },
       {
         "name": "Sable Immersion",
-        "lead": "Hassane GOUMRHAR EL",
+        "lead": "El Hassane GOUMRHAR",
         "desc": "",
         "status": "discarded",
         "stage": "Framing",
@@ -16005,7 +16005,7 @@
       },
       {
         "name": "IA Twin : sautage efficiency",
-        "lead": "aziz ETTOUZI",
+        "lead": "Aziz ETTOUZI",
         "desc": "Transformation digitale des opérations de tir par deux agents IA complémentaires IA 1 : analyse géométrique et géologique (reconstitution 3D,",
         "status": "active",
         "stage": "Ideation",
@@ -19729,7 +19729,7 @@
       {
         "id": 1283,
         "name": "IA Twin : sautage efficiency",
-        "lead": "aziz ETTOUZI",
+        "lead": "Aziz ETTOUZI",
         "sbu": "Mining",
         "site": "Phosboucraa",
         "pathway": "CAT D -> Pré-Idéation",
