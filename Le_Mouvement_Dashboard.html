@@ -51,6 +51,8 @@ body{font-family:'Roboto',sans-serif;background:var(--bg);color:#0D0D0D}
 /* SECTION TITLE */
 .stitle{font-size:9px;font-weight:700;text-transform:uppercase;letter-spacing:2.5px;color:var(--ind);margin-bottom:14px;display:flex;align-items:center;gap:10px}
 .stitle::before{content:'';width:18px;height:2px;background:linear-gradient(90deg,var(--ind),var(--mag))}
+.stitle .ebtn{margin-left:auto;padding:4px 10px;border-radius:4px;border:1px solid rgba(113,50,249,.35);background:rgba(113,50,249,.08);color:var(--ind);font-size:9px;font-weight:700;cursor:pointer;font-family:'Roboto',sans-serif;transition:all .15s;letter-spacing:1px;text-transform:uppercase;white-space:nowrap}
+.stitle .ebtn:hover{background:var(--ind);color:#fff;border-color:var(--ind)}
 
 /* KPI */
 .krow{display:grid;gap:12px;margin-bottom:24px}
@@ -322,7 +324,7 @@ html,body{overflow-x:hidden;max-width:100vw}
   <div class="stitle">Pass Gates — Comités de Validation</div>
   <div class="ggrid" id="p1-ggrid"></div>
 
-  <div class="stitle">Liste des Situations</div>
+  <div class="stitle">Liste des Situations <button class="ebtn" onclick="exportP1Excel()" title="Télécharger en Excel">⬇ &#x202F;Export</button></div>
   <div class="twrap">
     <div class="ttbar">
       <input class="tsearch" id="p1-search" type="text" placeholder="🔍  Rechercher par nom, description, lead..." oninput="p1SearchTable()">
@@ -412,7 +414,7 @@ html,body{overflow-x:hidden;max-width:100vw}
     </div>
   </div>
 
-  <div class="stitle">Liste des Situations Catégorisées</div>
+  <div class="stitle">Liste des Situations Catégorisées <button class="ebtn" onclick="exportP2Excel()" title="Télécharger en Excel">⬇ &#x202F;Export</button></div>
   <div class="twrap">
     <div class="ttbar">
       <input class="tsearch" id="p2-search" type="text" placeholder="🔍  Rechercher par nom, lead..." oninput="p2SearchTable()">
@@ -850,6 +852,44 @@ function renderPagination(id,page,totalPages,cb){
   if(page<totalPages)btn('›',page+1,false);
 }
 function esc(s){if(!s)return '';return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
+
+// ─── EXPORT EXCEL ───
+function xlsxExport(rows2d, filename){
+  function esc(s){return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+  const xml='<?xml version="1.0" encoding="UTF-8"?>'
+    +'<?mso-application progid="Excel.Sheet"?>'
+    +'<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" '
+    +'xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">'
+    +'<Styles>'
+    +'<Style ss:ID="h"><Font ss:Bold="1" ss:Color="#FFFFFF"/><Interior ss:Color="#7132F9" ss:Pattern="Solid"/></Style>'
+    +'</Styles>'
+    +'<Worksheet ss:Name="Export"><Table>'
+    +rows2d.map((row,ri)=>'<Row>'
+      +row.map(cell=>'<Cell'+(ri===0?' ss:StyleID="h"':'')+'><Data ss:Type="String">'+esc(cell)+'</Data></Cell>').join('')
+      +'</Row>').join('')
+    +'</Table></Worksheet></Workbook>';
+  const bom='\uFEFF';
+  const blob=new Blob([bom+xml],{type:'application/vnd.ms-excel;charset=utf-8'});
+  const url=URL.createObjectURL(blob);
+  const a=document.createElement('a');a.href=url;a.download=filename;a.style.display='none';
+  document.body.appendChild(a);a.click();
+  setTimeout(()=>{document.body.removeChild(a);URL.revokeObjectURL(url);},500);
+}
+function exportP1Excel(){
+  const rows=p1GetRows();
+  const data=[['Nom','Lead','Étape','Statut','SBU','Site','Type','Horizon','Thématique','Objectif','Demo Day','Hacking Committee','Impact Gate','Description']];
+  rows.forEach(r=>data.push([r.name||'',r.lead||'',r.stage||'',r.status==='active'?'Active':'Discarded',r.sbu||'',r.site||'',r.type||'',r.horizon||'',r.theme||'',r.goal||'',r.demo_day?'Oui':'Non',r.hacking?'Oui':'Non',r.impact_gate?'Oui':'Non',r.desc||'']));
+  xlsxExport(data,'Le_Mouvement_Vue_Globale.xls');
+}
+function exportP2Excel(){
+  const s=p2Search.toLowerCase();
+  let rows=p2Filtered().filter(r=>!s||(r.name||'').toLowerCase().includes(s)||(r.lead||'').toLowerCase().includes(s));
+  rows.sort((a,b)=>{const va=(a[p2SortKey]!=null?a[p2SortKey]:'').toString().toLowerCase();const vb=(b[p2SortKey]!=null?b[p2SortKey]:'').toString().toLowerCase();return va<vb?-p2SortDir:va>vb?p2SortDir:0;});
+  const PL={AB:'CAT A&B → Demo Day',C:'CAT C → Pré-idéation',D:'CAT D → Pré-idéation',QW:'Quick Wins → Move Up',F:'CAT F → Entrepreneurial Certificate'};
+  const data=[['Nom','Lead','SBU','Site','Pathway','Organisation','Programme démarré']];
+  rows.forEach(r=>data.push([r.name||'',r.lead||'',r.sbu||'',r.site||'',PL[r.pathway_key]||r.pathway||'',r.organisme||'',r.demarre?'Démarré':'En attente']));
+  xlsxExport(data,'Le_Mouvement_Categorisation.xls');
+}
 
 // ─── INIT ───
 p1BuildChips();
