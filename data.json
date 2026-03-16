@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15 22:21",
-  "file_date": "15/03/2026",
+  "generated_at": "2026-03-16 13:43",
+  "file_date": "16/03/2026",
   "p1": {
     "records": [
       {
@@ -86,7 +86,7 @@
       {
         "name": "Green buildings",
         "lead": "Latifa IRAQI",
-        "desc": "Adopter une démarche environnementale dans les projets de construction pour avoir des bâtiments verts et réduire l’empreinte carbone_x000D_\nAméliorer l’efficacité énergétique des bâtiments existants du groupe",
+        "desc": "Adopter une démarche environnementale dans les projets de construction pour avoir des bâtiments verts et réduire l’empreinte carbone_x000D_ Améliorer l’efficacité énergétique des bâtiments existants du groupe",
         "status": "discarded",
         "stage": "Ideation",
         "sbu": "Manufacturing",
@@ -454,7 +454,7 @@
       {
         "name": "Musée Phosboucraa",
         "lead": "Abdessamad EL FOUKHARI",
-        "desc": "Création d'un musée et un documentaire sur l'historique de Phosboucraa_x000D_\n un  musée  qui  peut être un espace captivant pour présenter l’histoire, la culture et les réalisations de Phosboucraa.",
+        "desc": "Création d'un musée et un documentaire sur l'historique de Phosboucraa_x000D_  un  musée  qui  peut être un espace captivant pour présenter l’histoire, la culture et les réalisations de Phosboucraa.",
         "status": "active",
         "stage": "Ideation",
         "sbu": "Fondation Phosboucraa",
@@ -1188,9 +1188,9 @@
         "impact_gate": false
       },
       {
-        "name": "OCP Equipement AFRICA",
+        "name": "OMINEX SUPPLY",
         "lead": "Abdelhadi ABOUALI",
-        "desc": "OCP Equipement Africa est une situation ambitieuse, avec pour vocation de devenir un acteur stratégique dans le négoce des équipements miniers, industriels et PDR pour les industriels marocains et africains.",
+        "desc": "La situation OMINEX SUPPLY vise la création d’une BU Commerciale (Achat revente du matériel Minier, Industriel et leur PDR),",
         "status": "active",
         "stage": "Ideation",
         "sbu": "Mining",
@@ -2006,7 +2006,7 @@
       {
         "name": "EcoWay Solutions",
         "lead": "Chaouki BASBASSI",
-        "desc": "EcoWay Solutions transforme les déchets plastiques et miniers en pavés écologiques, durables et esthétiques, pour des villes plus propres._x000D_\nUne solution locale, innovante et circulaire au service de l’économie verte.",
+        "desc": "EcoWay Solutions transforme les déchets plastiques et miniers en pavés écologiques, durables et esthétiques, pour des villes plus propres._x000D_ Une solution locale, innovante et circulaire au service de l’économie verte.",
         "status": "active",
         "stage": "Incubation",
         "sbu": "Manufacturing",
@@ -4086,7 +4086,7 @@
       {
         "name": "TRACK IMMO",
         "lead": "Adil KARIYES",
-        "desc": "Géolocalisation de tous les équipements, soit interchangeables ou consommables en temps réel_x000D_\n_x000D_",
+        "desc": "Géolocalisation de tous les équipements, soit interchangeables ou consommables en temps réel_x000D_ _x000D_",
         "status": "active",
         "stage": "Ideation",
         "sbu": "Mining",
@@ -6694,7 +6694,7 @@
       {
         "name": "HSE Connect",
         "lead": "Azeddine CHAABI",
-        "desc": "«HSE Connect» est une plateforme numérique centralisée conçue pour simplifier et_x000D_\nautomatiser la gestion des infractions liées aux habilitations.",
+        "desc": "«HSE Connect» est une plateforme numérique centralisée conçue pour simplifier et_x000D_ automatiser la gestion des infractions liées aux habilitations.",
         "status": "discarded",
         "stage": "Ideation",
         "sbu": "Mining",
@@ -8870,7 +8870,7 @@
       {
         "name": "Gestion temps hors tâches",
         "lead": "Hamza IBRAHIMI",
-        "desc": "gestion temps hors tâches _x000D_\n\"extratime\"",
+        "desc": "gestion temps hors tâches _x000D_ \"extratime\"",
         "status": "discarded",
         "stage": "Ideation",
         "sbu": "Manufacturing",
@@ -9814,7 +9814,7 @@
       {
         "name": "OCP SPORT ACADEMY",
         "lead": "Hamza AMTOUY",
-        "desc": "Création de la Filiale OCP Sports Academy pour la Formation des Athlètes _x000D_\net le Développement de Compétences",
+        "desc": "Création de la Filiale OCP Sports Academy pour la Formation des Athlètes _x000D_ et le Développement de Compétences",
         "status": "discarded",
         "stage": "Ideation",
         "sbu": "Manufacturing",
@@ -10902,7 +10902,7 @@
       {
         "name": "OCP QualityEdge Solutions",
         "lead": "Taoufiq MAHLOUB",
-        "desc": "Standardiser. Accréditer. Capitaliser le savoir-faire._x000D_\nPour des analyses fiables, comparables et reconnues.",
+        "desc": "Standardiser. Accréditer. Capitaliser le savoir-faire._x000D_ Pour des analyses fiables, comparables et reconnues.",
         "status": "active",
         "stage": "Ideation",
         "sbu": "UM6P",
@@ -11158,7 +11158,7 @@
       {
         "name": "OEV",
         "lead": "Yassine AZHARI",
-        "desc": "Notre situation vise à construire une voiture électrique ,économique,écologique et 100% marocaine._x000D_\nLa situation vise aussi la fabrication des bornes de recharges rapides pour les voitures électriques.",
+        "desc": "Notre situation vise à construire une voiture électrique ,économique,écologique et 100% marocaine._x000D_ La situation vise aussi la fabrication des bornes de recharges rapides pour les voitures électriques.",
         "status": "discarded",
         "stage": "Framing",
         "sbu": "Manufacturing",
@@ -11478,7 +11478,7 @@
       {
         "name": "étiquette électronique MA",
         "lead": "Mohamed EL BOUHMI",
-        "desc": "_x000D_\nL’objectif est de digitaliser les étiquettes utilisées en maintenance autonome en remplaçant les étiquettes papier par des étiquettes électroniques via une application dédiée. Cette application offrira plusieurs fonctionnalités essentielles_x000D_",
+        "desc": "_x000D_ L’objectif est de digitaliser les étiquettes utilisées en maintenance autonome en remplaçant les étiquettes papier par des étiquettes électroniques via une application dédiée. Cette application offrira plusieurs fonctionnalités essentielles_x000D_",
         "status": "discarded",
         "stage": "Ideation",
         "sbu": "Mining",
@@ -11894,7 +11894,7 @@
       {
         "name": "Club Nexus Innov",
         "lead": "Aziz NASSIRI",
-        "desc": "Club Nexus Innov (Lien entre création et reverse engineering)_x000D_\nPrésentation du Club_x000D_\n Mission : \"Créer, Innover et Résoudre par la Collaboration entre Passionnés et Professionnels.\"",
+        "desc": "Club Nexus Innov (Lien entre création et reverse engineering)_x000D_ Présentation du Club_x000D_  Mission : \"Créer, Innover et Résoudre par la Collaboration entre Passionnés et Professionnels.\"",
         "status": "discarded",
         "stage": "Ideation",
         "sbu": "Mining",
@@ -12246,7 +12246,7 @@
       {
         "name": "Act4Morocco 2030",
         "lead": "Keltoum ESSABIR",
-        "desc": "Act4Morocco2030 est une initiative citoyenne innovante qui vise à mobiliser la jeunesse marocaine autour de valeurs d'engagement, de respect, de solidarité et d’action collective._x000D_\n_x000D_\n_x000D_\n_x000D_",
+        "desc": "Act4Morocco2030 est une initiative citoyenne innovante qui vise à mobiliser la jeunesse marocaine autour de valeurs d'engagement, de respect, de solidarité et d’action collective._x000D_ _x000D_ _x000D_ _x000D_",
         "status": "active",
         "stage": "Incubation",
         "sbu": "Corporate",
@@ -13318,7 +13318,7 @@
       {
         "name": "cleancar&go",
         "lead": "Imad YAZZO",
-        "desc": "Un service innovant de lavage de voitures à sec et écologique proposé sur le site même de l’entreprise, pendant les heures de travail des collaborateurs._x000D_\n_x000D_",
+        "desc": "Un service innovant de lavage de voitures à sec et écologique proposé sur le site même de l’entreprise, pendant les heures de travail des collaborateurs._x000D_ _x000D_",
         "status": "active",
         "stage": "Ideation",
         "sbu": "Mining",
@@ -14100,22 +14100,6 @@
         "impact_gate": false
       },
       {
-        "name": "Phosboucraa talents",
-        "lead": "Ilias BOUSSOUF",
-        "desc": "",
-        "status": "discarded",
-        "stage": "Framing",
-        "sbu": "Mining",
-        "site": "Phosboucraa",
-        "type": null,
-        "horizon": null,
-        "theme": null,
-        "goal": null,
-        "demo_day": false,
-        "hacking": false,
-        "impact_gate": false
-      },
-      {
         "name": "Je Bouge, Je Réussis",
         "lead": "Ayoub BELLAHCEN",
         "desc": "Le projet utilise le sport et des activités hors classe pour renforcer discipline, confiance et motivation.",
@@ -14358,7 +14342,7 @@
       {
         "name": "IAgroSolar",
         "lead": "Faisal CHEWIWI",
-        "desc": "Nous combinons des compétences en énergies renouvelables, IoT, intelligence artificielle et gestion de l’eau._x000D_\nCette complémentarité nous permet d’intégrer la data, la technique et l’expérience agricole.",
+        "desc": "Nous combinons des compétences en énergies renouvelables, IoT, intelligence artificielle et gestion de l’eau._x000D_ Cette complémentarité nous permet d’intégrer la data, la technique et l’expérience agricole.",
         "status": "active",
         "stage": "Ideation",
         "sbu": "OTED",
@@ -14710,7 +14694,7 @@
       {
         "name": "DCI BENGUERIR",
         "lead": "Houssem ABOUELFARAH",
-        "desc": "Contexte_x000D_\nLe service de Défense Contre les Incendies (DCI) gère un large éventail de tâches_x000D_\nadministratives et techniques,",
+        "desc": "Contexte_x000D_ Le service de Défense Contre les Incendies (DCI) gère un large éventail de tâches_x000D_ administratives et techniques,",
         "status": "discarded",
         "stage": "Ideation",
         "sbu": "Mining",
@@ -14966,7 +14950,7 @@
       {
         "name": "EcoSpray",
         "lead": "Ayoub ETTOUHAMI",
-        "desc": "L'érosion sévère sur nos sites génère des coûts doubles (OPEX et risques stratégiques). L'Hydroseeding est la solution d'ingénierie nécessaire pour garantir la stabilité et la conformité environnementale. _x000D_\n_x000D_",
+        "desc": "L'érosion sévère sur nos sites génère des coûts doubles (OPEX et risques stratégiques). L'Hydroseeding est la solution d'ingénierie nécessaire pour garantir la stabilité et la conformité environnementale. _x000D_ _x000D_",
         "status": "active",
         "stage": "Ideation",
         "sbu": "Mining",
@@ -16276,22 +16260,6 @@
         "impact_gate": false
       },
       {
-        "name": "FIM (Test)",
-        "lead": "Moad ELLIOUICH",
-        "desc": "test",
-        "status": "active",
-        "stage": "Framing",
-        "sbu": "Mining",
-        "site": "Casablanca",
-        "type": null,
-        "horizon": null,
-        "theme": null,
-        "goal": null,
-        "demo_day": false,
-        "hacking": false,
-        "impact_gate": false
-      },
-      {
         "name": "Station Enviro-Intégrée",
         "lead": "Brahim BOUDI",
         "desc": "Plateforme industrielle dédiée à la valorisation des déchets : récupération, tri, reconditionnement, transformation et transport sécurisé des produits dangereux.",
@@ -17046,7 +17014,7 @@
       {
         "name": "O&M",
         "lead": "Er-Rafa AZZAZ",
-        "desc": "Devenir un acteur de référence national (international) en gestion O&M (Opération & Maintenance) intégrée d'infrastructures industrielles stratégiques\nCapitalisant sur les compétences multidisciplinaires et expertises OCP",
+        "desc": "Devenir un acteur de référence national (international) en gestion O&M (Opération & Maintenance) intégrée d'infrastructures industrielles stratégiques Capitalisant sur les compétences multidisciplinaires et expertises OCP",
         "status": "discarded",
         "stage": "Framing",
         "sbu": "Mining",
@@ -17206,7 +17174,7 @@
       {
         "name": "OCP Asset Revive",
         "lead": "Ayoub AQAZDDAMMOU",
-        "desc": "Création d’un atelier central intersites OCP dédié à la révision partielle ou totale des engins miniers lourds, leur modernisation technologique via intégration de solutions avancées.\nÉquipements concernés : foreuses/bulldozers D9/D11/draglines/moteurs.",
+        "desc": "Création d’un atelier central intersites OCP dédié à la révision partielle ou totale des engins miniers lourds, leur modernisation technologique via intégration de solutions avancées. Équipements concernés : foreuses/bulldozers D9/D11/draglines/moteurs.",
         "status": "active",
         "stage": "Ideation",
         "sbu": "Mining",
@@ -17304,7 +17272,7 @@
         "lead": "Yassine ELMAJIDI IDRISSI",
         "desc": "Cette idée va nous permMise en place d'un hub intégré de revalorisation technique et de reconditionnement des organes mécaniques critiques pour la Direction Gantour.",
         "status": "active",
-        "stage": "Framing",
+        "stage": "Ideation",
         "sbu": "Mining",
         "site": "Gantour",
         "type": null,
@@ -17460,13 +17428,13 @@
         "impact_gate": false
       },
       {
-        "name": "IA en maintenance",
-        "lead": null,
+        "name": "IA appliquée à la maintenance",
+        "lead": "Oualid EL AMRI",
         "desc": "IA en Maintenance est une situation qui explore l’intégration de l'intelligence artificielle dans les métiers de la maintenance et d'asset management.",
         "status": "active",
-        "stage": "Framing",
-        "sbu": "Autre",
-        "site": "Autre",
+        "stage": "Ideation",
+        "sbu": "Mining",
+        "site": "Khouribga",
         "type": null,
         "horizon": null,
         "theme": null,
@@ -17480,7 +17448,7 @@
         "lead": "Jihane NOURI",
         "desc": "Smart Lab transforme les laboratoires en plateformes automatisées et digitalisées. Il intègre robotisation, LIMS et traçabilité complète des échantillons.",
         "status": "active",
-        "stage": "Framing",
+        "stage": "Ideation",
         "sbu": "Mining",
         "site": "Khouribga",
         "type": null,
@@ -17493,12 +17461,124 @@
       },
       {
         "name": "Mine of Talents",
-        "lead": null,
+        "lead": "Nawfal ABBASSI SABER",
         "desc": "Une plateforme IA qui accélère la transition vers une organisation orientée compétences : vision unifiée des talents, mobilisation rapide pour les projets,",
         "status": "active",
+        "stage": "Ideation",
+        "sbu": "Mining",
+        "site": "Casablanca",
+        "type": null,
+        "horizon": null,
+        "theme": null,
+        "goal": null,
+        "demo_day": false,
+        "hacking": false,
+        "impact_gate": false
+      },
+      {
+        "name": "Mining Knowledge Hub",
+        "lead": "Kaoutar EL GHRIBE",
+        "desc": "Créer une mémoire digitale intelligente de la SBU Mining, basée sur l’expertise terrain réelle, accessible à tous et évolutive, permettant de transformer le savoir tacite en actif stratégique digital.",
+        "status": "active",
+        "stage": "Ideation",
+        "sbu": "Mining",
+        "site": "Khouribga",
+        "type": null,
+        "horizon": null,
+        "theme": null,
+        "goal": null,
+        "demo_day": false,
+        "hacking": false,
+        "impact_gate": false
+      },
+      {
+        "name": "OCP W2E  (Waste to Energy)",
+        "lead": "Adnane HAMDANI",
+        "desc": "OCP W2E (Waste to Energy) est une plate forme qui aura pour mission de gérer, traiter et valoriser les déchets industriels et ménagers en les transformant en ressources (énergie ou…",
+        "status": "active",
+        "stage": "Ideation",
+        "sbu": "Mining",
+        "site": "Khouribga",
+        "type": null,
+        "horizon": null,
+        "theme": null,
+        "goal": null,
+        "demo_day": false,
+        "hacking": false,
+        "impact_gate": false
+      },
+      {
+        "name": "Sharing Experiences",
+        "lead": "Omar MOUTTAQUI",
+        "desc": "Le rôle de la Situation est de partager notre expérience terrain, ancrée dans le réel, avec une approche concrète et pratique.",
+        "status": "active",
+        "stage": "Ideation",
+        "sbu": "Mining",
+        "site": "Casablanca",
+        "type": null,
+        "horizon": null,
+        "theme": null,
+        "goal": null,
+        "demo_day": false,
+        "hacking": false,
+        "impact_gate": false
+      },
+      {
+        "name": "GeoMotion",
+        "lead": "Omar DAGHOUS",
+        "desc": "Création d'un IA de géologie",
+        "status": "active",
+        "stage": "Ideation",
+        "sbu": "Mining",
+        "site": "Khouribga",
+        "type": null,
+        "horizon": null,
+        "theme": null,
+        "goal": null,
+        "demo_day": false,
+        "hacking": false,
+        "impact_gate": false
+      },
+      {
+        "name": "NexBuy.Ai",
+        "lead": "Souhail BOUCHRIHA",
+        "desc": "NexBuy.Ai réinvente la fonction achat en déployant des agents IA spécialisés qui automatisent et utilisent l’IA sur les étapes les plus chronophages du processus achat (Shortlist fournisseurs, validation CLAO,",
+        "status": "active",
+        "stage": "Ideation",
+        "sbu": "Mining",
+        "site": "Khouribga",
+        "type": null,
+        "horizon": null,
+        "theme": null,
+        "goal": null,
+        "demo_day": false,
+        "hacking": false,
+        "impact_gate": false
+      },
+      {
+        "name": "FluxOptima",
+        "lead": "Abdelouahad ACHCHAR",
+        "desc": "FluxOptima est une solution globale d'automation et d'optimisation des workflows industriels par l'IA. Elle unifie Performance, maintenance et sécurité pour transformer l'expertise métier en performance proactive, sécurisée et souveraine.",
+        "status": "active",
         "stage": "Framing",
-        "sbu": "Autre",
-        "site": "Autre",
+        "sbu": "Mining",
+        "site": "Khouribga",
+        "type": null,
+        "horizon": null,
+        "theme": null,
+        "goal": null,
+        "demo_day": false,
+        "hacking": false,
+        "impact_gate": false
+      },
+      {
+        "name": "Sonda X \"Drill X\" Exploration",
+        "lead": "Brahim BAAMAR",
+        "desc": "Sonda X vise à créer une entité de forage d’élite, intégrée au cœur de notre écosystème OCP-UM6P,",
+        "status": "active",
+        "stage": "Ideation",
+        "sbu": "Mining",
+        "site": "Khouribga",
         "type": null,
         "horizon": null,
         "theme": null,
@@ -17646,7 +17726,7 @@
       },
       {
         "id": 76,
-        "name": "OCP Equipement AFRICA",
+        "name": "OMINEX SUPPLY",
         "lead": "Abdelhadi ABOUALI",
         "sbu": "Mining",
         "site": "Khouribga",
@@ -18901,8 +18981,8 @@
         "pathway": "CAT D -> Pré-Idéation",
         "pathway_key": "D",
         "organisme": "LaunchX",
-        "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "demarre": false,
+        "periode": "Non initié",
         "step": "Categorization"
       },
       {
@@ -18914,8 +18994,8 @@
         "pathway": "CAT A&B -> Idéation",
         "pathway_key": "AB",
         "organisme": "Le HUB",
-        "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "demarre": false,
+        "periode": "Non initié",
         "step": "Ideation"
       },
       {
@@ -18927,8 +19007,8 @@
         "pathway": "CAT D -> Pré-Idéation",
         "pathway_key": "D",
         "organisme": "LaunchX",
-        "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "demarre": false,
+        "periode": "Non initié",
         "step": "Categorization"
       },
       {
@@ -18953,8 +19033,8 @@
         "pathway": "CAT D -> Pré-Idéation",
         "pathway_key": "D",
         "organisme": "LaunchX",
-        "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "demarre": false,
+        "periode": "Non initié",
         "step": "Categorization"
       },
       {
@@ -18979,8 +19059,8 @@
         "pathway": "CAT A&B -> Idéation",
         "pathway_key": "AB",
         "organisme": "Le HUB",
-        "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "demarre": false,
+        "periode": "Non initié",
         "step": "Ideation"
       },
       {
@@ -18992,8 +19072,8 @@
         "pathway": "CAT D -> Pré-Idéation",
         "pathway_key": "D",
         "organisme": "LaunchX",
-        "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "demarre": false,
+        "periode": "Non initié",
         "step": "Categorization"
       },
       {
@@ -19006,7 +19086,7 @@
         "pathway_key": "D",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2025-10-01 00:00:00",
+        "periode": "2026-02-01 00:00:00",
         "step": "Categorization"
       },
       {
@@ -19031,8 +19111,8 @@
         "pathway": "Entrepreneurial Certificate",
         "pathway_key": "F",
         "organisme": "Le HUB",
-        "demarre": true,
-        "periode": "2025-10-01 00:00:00",
+        "demarre": false,
+        "periode": "Non initié",
         "step": "Categorization"
       },
       {
@@ -19057,8 +19137,8 @@
         "pathway": "CAT D -> Pré-Idéation",
         "pathway_key": "D",
         "organisme": "LaunchX",
-        "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "demarre": false,
+        "periode": "Non initié",
         "step": "Categorization"
       },
       {
@@ -19083,8 +19163,8 @@
         "pathway": "Quick wins -> Move Up",
         "pathway_key": "QW",
         "organisme": "MindX",
-        "demarre": false,
-        "periode": "Non initié",
+        "demarre": true,
+        "periode": "2026-02-01 00:00:00",
         "step": "Categorization"
       },
       {
@@ -19122,8 +19202,8 @@
         "pathway": "CAT C -> Pré-Idéation",
         "pathway_key": "C",
         "organisme": "LaunchX",
-        "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "demarre": false,
+        "periode": "Non initié",
         "step": "Categorization"
       },
       {
@@ -19161,8 +19241,8 @@
         "pathway": "CAT D -> Pré-Idéation",
         "pathway_key": "D",
         "organisme": "LaunchX",
-        "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "demarre": false,
+        "periode": "Non initié",
         "step": "Categorization"
       },
       {
@@ -19174,8 +19254,8 @@
         "pathway": "CAT A&B -> Idéation",
         "pathway_key": "AB",
         "organisme": "Le HUB",
-        "demarre": false,
-        "periode": "Non initié",
+        "demarre": true,
+        "periode": "2026-02-01 00:00:00",
         "step": "Categorization"
       },
       {
@@ -19200,8 +19280,8 @@
         "pathway": "CAT D -> Pré-Idéation",
         "pathway_key": "D",
         "organisme": "LaunchX",
-        "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "demarre": false,
+        "periode": "Non initié",
         "step": "Categorization"
       },
       {
@@ -19226,8 +19306,8 @@
         "pathway": "CAT A&B -> Idéation",
         "pathway_key": "AB",
         "organisme": "Le HUB",
-        "demarre": false,
-        "periode": "Non initié",
+        "demarre": true,
+        "periode": "2026-02-01 00:00:00",
         "step": "Categorization"
       },
       {
@@ -19239,8 +19319,8 @@
         "pathway": "CAT C -> Pré-Idéation",
         "pathway_key": "C",
         "organisme": "LaunchX",
-        "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "demarre": false,
+        "periode": "Non initié",
         "step": "Categorization"
       },
       {
@@ -19252,8 +19332,8 @@
         "pathway": "CAT A&B -> Idéation",
         "pathway_key": "AB",
         "organisme": "Le HUB",
-        "demarre": false,
-        "periode": "Non initié",
+        "demarre": true,
+        "periode": "2026-02-01 00:00:00",
         "step": "Categorization"
       },
       {
@@ -19304,8 +19384,8 @@
         "pathway": "CAT D -> Pré-Idéation",
         "pathway_key": "D",
         "organisme": "LaunchX",
-        "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "demarre": false,
+        "periode": "Non initié",
         "step": "Categorization"
       },
       {
@@ -19317,8 +19397,8 @@
         "pathway": "CAT A&B -> Idéation",
         "pathway_key": "AB",
         "organisme": "Le HUB",
-        "demarre": false,
-        "periode": "Non initié",
+        "demarre": true,
+        "periode": "2026-02-01 00:00:00",
         "step": "Categorization"
       },
       {
@@ -19343,8 +19423,8 @@
         "pathway": "Entrepreneurial Certificate",
         "pathway_key": "F",
         "organisme": "Le HUB",
-        "demarre": true,
-        "periode": "2025-12-01 00:00:00",
+        "demarre": false,
+        "periode": "Non initié",
         "step": "Categorization"
       },
       {
@@ -19356,8 +19436,8 @@
         "pathway": "CAT C -> Pré-Idéation",
         "pathway_key": "C",
         "organisme": "LaunchX",
-        "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "demarre": false,
+        "periode": "Non initié",
         "step": "Categorization"
       },
       {
@@ -19395,8 +19475,8 @@
         "pathway": "CAT D -> Pré-Idéation",
         "pathway_key": "D",
         "organisme": "LaunchX",
-        "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "demarre": false,
+        "periode": "Non initié",
         "step": "Categorization"
       },
       {
@@ -19408,8 +19488,8 @@
         "pathway": "CAT D -> Pré-Idéation",
         "pathway_key": "D",
         "organisme": "LaunchX",
-        "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "demarre": false,
+        "periode": "Non initié",
         "step": "Categorization"
       },
       {
@@ -19421,8 +19501,8 @@
         "pathway": "CAT A&B -> Idéation",
         "pathway_key": "AB",
         "organisme": "Le HUB",
-        "demarre": false,
-        "periode": "Non initié",
+        "demarre": true,
+        "periode": "2026-02-01 00:00:00",
         "step": "Categorization"
       },
       {
@@ -19512,8 +19592,8 @@
         "pathway": "CAT A&B -> Idéation",
         "pathway_key": "AB",
         "organisme": "Le HUB",
-        "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "demarre": false,
+        "periode": "Non initié",
         "step": "Ideation"
       },
       {
@@ -19525,8 +19605,8 @@
         "pathway": "CAT D -> Pré-Idéation",
         "pathway_key": "D",
         "organisme": "LaunchX",
-        "demarre": false,
-        "periode": "Non initié",
+        "demarre": true,
+        "periode": "2026-02-01 00:00:00",
         "step": "Categorization"
       },
       {
@@ -19616,8 +19696,8 @@
         "pathway": "CAT A&B -> Idéation",
         "pathway_key": "AB",
         "organisme": "Le HUB",
-        "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "demarre": false,
+        "periode": "Non initié",
         "step": "Ideation"
       },
       {
@@ -19629,8 +19709,8 @@
         "pathway": "CAT A&B -> Idéation",
         "pathway_key": "AB",
         "organisme": "Le HUB",
-        "demarre": false,
-        "periode": "Non initié",
+        "demarre": true,
+        "periode": "2026-02-01 00:00:00",
         "step": "Categorization"
       },
       {
@@ -20518,6 +20598,19 @@
         "step": "Categorization"
       },
       {
+        "id": 1361,
+        "name": "Smart Convoyeur",
+        "lead": "Jawad FATIH",
+        "sbu": "Mining",
+        "site": "Gantour",
+        "pathway": "CAT A&B -> Idéation",
+        "pathway_key": "AB",
+        "organisme": "Le HUB",
+        "demarre": false,
+        "periode": "Non initié",
+        "step": "Categorization"
+      },
+      {
         "id": 1362,
         "name": "MEGA CHARGE",
         "lead": "Mohamed RAJAD",
@@ -20594,19 +20687,162 @@
         "demarre": false,
         "periode": "Non initié",
         "step": "Categorization"
+      },
+      {
+        "id": 1371,
+        "name": "Substitution matériel labo",
+        "lead": "Essaid ZEROUALI",
+        "sbu": "Mining",
+        "site": "Gantour",
+        "pathway": "CAT A&B -> Idéation",
+        "pathway_key": "AB",
+        "organisme": "Le HUB",
+        "demarre": false,
+        "periode": "Non initié",
+        "step": "Categorization"
+      },
+      {
+        "id": 1372,
+        "name": "HVAL",
+        "lead": "Sliman MANAR",
+        "sbu": "UM6P",
+        "site": "Safi",
+        "pathway": "CAT A&B -> Idéation",
+        "pathway_key": "AB",
+        "organisme": "Le HUB",
+        "demarre": false,
+        "periode": "Non initié",
+        "step": "Categorization"
+      },
+      {
+        "id": 1373,
+        "name": "IA appliquée à la maintenance",
+        "lead": "Oualid EL AMRI",
+        "sbu": "Mining",
+        "site": "Khouribga",
+        "pathway": "CAT A&B -> Idéation",
+        "pathway_key": "AB",
+        "organisme": "Le HUB",
+        "demarre": false,
+        "periode": "Non initié",
+        "step": "Categorization"
+      },
+      {
+        "id": 1374,
+        "name": "Smart Lab",
+        "lead": "Jihane NOURI",
+        "sbu": "Mining",
+        "site": "Khouribga",
+        "pathway": "CAT A&B -> Idéation",
+        "pathway_key": "AB",
+        "organisme": "Le HUB",
+        "demarre": false,
+        "periode": "Non initié",
+        "step": "Categorization"
+      },
+      {
+        "id": 1375,
+        "name": "Mine of Talents",
+        "lead": "Nawfal ABBASSI SABER",
+        "sbu": "Mining",
+        "site": "Casablanca",
+        "pathway": "CAT A&B -> Idéation",
+        "pathway_key": "AB",
+        "organisme": "Le HUB",
+        "demarre": false,
+        "periode": "Non initié",
+        "step": "Categorization"
+      },
+      {
+        "id": 1376,
+        "name": "Mining Knowledge Hub",
+        "lead": "Kaoutar EL GHRIBE",
+        "sbu": "Mining",
+        "site": "Khouribga",
+        "pathway": "CAT A&B -> Idéation",
+        "pathway_key": "AB",
+        "organisme": "Le HUB",
+        "demarre": false,
+        "periode": "Non initié",
+        "step": "Categorization"
+      },
+      {
+        "id": 1377,
+        "name": "OCP W2E  (Waste to Energy)",
+        "lead": "Adnane HAMDANI",
+        "sbu": "Mining",
+        "site": "Khouribga",
+        "pathway": "CAT A&B -> Idéation",
+        "pathway_key": "AB",
+        "organisme": "Le HUB",
+        "demarre": false,
+        "periode": "Non initié",
+        "step": "Categorization"
+      },
+      {
+        "id": 1378,
+        "name": "Sharing Experiences",
+        "lead": "Omar MOUTTAQUI",
+        "sbu": "Mining",
+        "site": "Casablanca",
+        "pathway": "CAT A&B -> Idéation",
+        "pathway_key": "AB",
+        "organisme": "Le HUB",
+        "demarre": false,
+        "periode": "Non initié",
+        "step": "Categorization"
+      },
+      {
+        "id": 1379,
+        "name": "GeoMotion",
+        "lead": "Omar DAGHOUS",
+        "sbu": "Mining",
+        "site": "Khouribga",
+        "pathway": "CAT A&B -> Idéation",
+        "pathway_key": "AB",
+        "organisme": "Le HUB",
+        "demarre": false,
+        "periode": "Non initié",
+        "step": "Categorization"
+      },
+      {
+        "id": 1380,
+        "name": "NexBuy.Ai",
+        "lead": "Souhail BOUCHRIHA",
+        "sbu": "Mining",
+        "site": "Khouribga",
+        "pathway": "CAT A&B -> Idéation",
+        "pathway_key": "AB",
+        "organisme": "Le HUB",
+        "demarre": false,
+        "periode": "Non initié",
+        "step": "Categorization"
+      },
+      {
+        "id": 1382,
+        "name": "Sonda X \"Drill X\" Exploration",
+        "lead": "Brahim BAAMAR",
+        "sbu": "Mining",
+        "site": "Khouribga",
+        "pathway": "CAT A&B -> Idéation",
+        "pathway_key": "AB",
+        "organisme": "Le HUB",
+        "demarre": false,
+        "periode": "Non initié",
+        "step": "Categorization"
       }
     ],
     "sbu_section": {
       "CAT A&B -> Demo Day": {
-        "Mining": 51,
+        "Mining": 62,
         "Manufacturing": 12,
         "Nutricrops": 2,
         "InnovX": 1,
         "SPS": 1,
         "OTED": 1,
         "Fondation Phosboucraa": 1,
-        "UM6P": 1,
-        "Total": 70
+        "UM6P": 2,
+        "Total": 82
       },
       "CAT C -> Pré-idéation": {
         "Fondation Phosboucraa": 1,
@@ -20640,13 +20876,13 @@
     },
     "site_section": {
       "CAT A&B -> Demo Day": {
-        "Khouribga": 28,
-        "Safi": 5,
+        "Khouribga": 35,
+        "Safi": 6,
         "Phosboucraa": 5,
         "Jorf Lasfar": 9,
-        "Gantour": 19,
-        "Casablanca": 4,
-        "Total": 70
+        "Gantour": 21,
+        "Casablanca": 6,
+        "Total": 82
       },
       "CAT C -> Pré-idéation": {
         "Phosboucraa": 17,
@@ -20681,41 +20917,41 @@
         "Total": 7
       }
     },
-    "total": 236,
+    "total": 248,
     "p2_stats": {
       "AB": {
-        "total": 70,
-        "demarre": 8
+        "total": 82,
+        "demarre": 10
       },
       "C": {
         "total": 44,
-        "demarre": 33
+        "demarre": 30
       },
       "D": {
         "total": 93,
-        "demarre": 42
+        "demarre": 33
       },
       "QW": {
         "total": 22,
-        "demarre": 8
+        "demarre": 9
       },
       "F": {
         "total": 7,
-        "demarre": 4
+        "demarre": 2
       }
     },
     "org_counts": {
       "LaunchX": 137,
-      "Le HUB": 77,
+      "Le HUB": 89,
       "MindX": 22
     },
     "perimetre": {
-      "total": 254,
-      "avec_parcours": 236,
-      "sans_parcours": 18,
-      "pct_cat": 92.9,
-      "total_demarre": 95,
-      "pct_demarre": 40.3
+      "total": 260,
+      "avec_parcours": 248,
+      "sans_parcours": 12,
+      "pct_cat": 95.4,
+      "total_demarre": 84,
+      "pct_demarre": 33.9
     }
   }
 }
