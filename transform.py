@@ -58,7 +58,7 @@ PERIM_STEPS = ["*Soumission*", "Soumission", "Categorization", "Ideation"]
 
 def clean(val):
     if pd.isna(val): return None
-    s = str(val).strip()
+    s = str(val).replace('\n', ' ').replace('\r', ' ').replace('\t', ' ').strip()
     return s if s and s not in ("00:00:00", "nan") else None
 
 def sbu_normalize(val):
