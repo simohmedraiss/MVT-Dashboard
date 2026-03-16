@@ -78,7 +78,7 @@ body{font-family:'Roboto',sans-serif;background:var(--bg);color:#0D0D0D}
 .ccard{background:var(--w);border-radius:14px;border:1.5px solid var(--b);padding:20px 22px}
 .ctitle{font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:1.2px;color:#0D0D0D;margin-bottom:16px}
 
-/* MATRIX */
+/* MATRIX — voir aussi .mtable-wrap dans le bloc responsive */
 .mtable{width:100%;border-collapse:collapse;font-size:13px}
 .mtable th{padding:10px 13px;font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.8px;color:#fff;background:var(--blk);text-align:center}
 .mtable th:first-child{text-align:left}
@@ -181,19 +181,29 @@ footer{background:var(--blk);border-top:1px solid rgba(113,50,249,.2);color:rgba
 html,body{overflow-x:hidden;max-width:100vw}
 *{box-sizing:border-box}
 .main{overflow-x:hidden}
+
+/* TABLE MATRIX : toujours scrollable horizontalement */
+.mtable-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch;width:100%}
+.mtable{width:100%;min-width:560px;border-collapse:collapse;font-size:13px}
+
 @media(max-width:768px){
   .main{padding:12px!important}
   header{padding:10px 12px;flex-wrap:wrap;gap:8px}
-  .tabs{padding:0 12px}.fbar{padding:8px 12px}
+  .tabs{padding:0 8px;overflow-x:auto;-webkit-overflow-scrolling:touch;flex-wrap:nowrap}
+  .tab{font-size:10px;padding:10px 10px;white-space:nowrap;flex-shrink:0}
+  .fbar{padding:8px 12px}
   .htitle{font-size:13px}.hsub{font-size:9px}
   .hcount{font-size:18px}.hdate{font-size:9px}
-  .tab{font-size:11px;padding:10px 14px}
   .krow{grid-template-columns:1fr 1fr!important}
   .kc.tot{grid-column:1/-1!important}
   .kc{padding:12px}.kn{font-size:26px}.kl{font-size:11px}.ks{font-size:10px}
   div[style*="1.3fr 1fr 1fr 1fr 1fr"]{grid-template-columns:1fr 1fr!important}
   div[style*="1.3fr 1fr 1fr 1fr 1fr"] .kc:first-child{grid-column:1/-1!important}
   .prow5{grid-template-columns:1fr 1fr!important}
+
+  /* Pass Gates : 1 colonne sur mobile */
+  .ggrid{grid-template-columns:1fr!important}
+
   div[style*="repeat(3,1fr)"]{grid-template-columns:1fr!important}
   div[style*="1fr 1fr"]:not(.krow),div[style*="1.8fr 1fr"],div[style*="1fr 1.8fr"],
   div[style*="1fr 1.7fr"],div[style*="1.4fr repeat"]{grid-template-columns:1fr!important}
@@ -210,7 +220,18 @@ html,body{overflow-x:hidden;max-width:100vw}
   .site-wrap{grid-template-columns:repeat(3,1fr)!important;height:auto!important}
   .prog-label{width:100px!important;font-size:10px}.prog-n{width:40px!important}
   canvas{max-width:100%!important}.ccard{overflow:hidden}
+
+  /* Gates cards : taille compacte sur mobile */
+  .gh{padding:12px 14px}
+  .gt{font-size:24px}
+  .gb{padding:10px 14px}
+  .grv{font-size:13px}
+
   footer{font-size:9px;padding:8px}
+}
+@media(min-width:480px)and(max-width:768px){
+  /* Pass Gates : 2 colonnes sur petits écrans larges (paysage) */
+  .ggrid{grid-template-columns:repeat(2,1fr)!important}
 }
 @media(min-width:769px)and(max-width:1024px){
   .main{padding:20px!important}
@@ -292,8 +313,10 @@ html,body{overflow-x:hidden;max-width:100vw}
 
   <div class="stitle">Situations Progress — Type × Étape</div>
   <div class="ccard" style="margin-bottom:24px">
+    <div class="mtable-wrap">
     <table class="mtable"><thead><tr><th>Type</th><th>Total</th><th>%</th><th>Framing</th><th>Ideation</th><th>Incubation</th><th>Accélération</th><th>Impact</th></tr></thead>
     <tbody id="p1-mtbody"></tbody></table>
+    </div>
   </div>
 
   <div class="stitle">Pass Gates — Comités de Validation</div>
