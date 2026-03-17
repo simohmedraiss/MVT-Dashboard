@@ -77,14 +77,18 @@ def site_normalize(val):
 
 def to_stage(step):
     """Mappe l'étape vers un stage simplifié."""
-    if not step: return "Framing"
-    s = step.lower()
+    if not step: return None
+    s = str(step).strip()
+    if not s or s == 'nan': return None
+    s = s.lower()
     if "soumission" in s:                          return "Framing"
-    if "categor" in s:                             return "Ideation"
+    if "categor" in s:                             return "Framing"
     if "ideation" in s:                            return "Ideation"
     if "pre-hack" in s or "pre_hack" in s:         return "Incubation"
     if "hacking" in s:                             return "Incubation"
     if "incubation" in s:                          return "Incubation"
+    if "development" in s:                         return "Incubation"
+    if "qualification" in s:                       return "Incubation"
     if "acceleration" in s or "acceler" in s:      return "Acceleration"
     if "impact" in s:                              return "Impact"
     return "Framing"
@@ -134,12 +138,14 @@ def load_p1(df1, demo_ids, hc_ids):
         lead  = f"{clean(r.get('Prénom du lead fiabilisé')) or ''} {clean(r.get('Nom du lead fiabilisé')) or ''}".strip() or None
         step  = clean(r.get('Current step name'))
         goal  = clean(r.get('Objectif Sratégique')) or clean(r.get('Objectif stratégique'))
+        stage = to_stage(step)
+        if stage is None: continue  # exclure les lignes sans step valide
         records.append({
             "name":        clean(r.get('Project name')),
             "lead":        lead,
             "desc":        truncate_desc(clean(r.get('Project description')) or ''),
             "status":      clean(r.get('Current status')),
-            "stage":       to_stage(step),
+            "stage":       stage,
             "sbu":         sbu_normalize(r.get('SBU/Filiales de rattachement')),
             "site":        site_normalize(r.get('Site de rattachement')),
             "type":        clean(r.get('Type de Situation')),
