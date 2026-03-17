@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16 19:29",
-  "file_date": "16/03/2026",
+  "generated_at": "2026-03-17 07:36",
+  "file_date": "17/03/2026",
   "p1": {
     "records": [
       {
@@ -17790,19 +17790,6 @@
         "step": "Ideation"
       },
       {
-        "id": 136,
-        "name": "SolveExpert",
-        "lead": "Abdemounaim BOURZIGUI",
-        "sbu": "Mining",
-        "site": "Khouribga",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
-        "demarre": false,
-        "periode": "Non initié",
-        "step": "Ideation"
-      },
-      {
         "id": 143,
         "name": "OCP Customization Solutions",
         "lead": "Dadaie DAIHI",
@@ -17886,9 +17873,9 @@
         "lead": "Jaouad MOKRINI",
         "sbu": "Mining",
         "site": "Khouribga",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
+        "pathway": "CAT D -> Pré-Idéation",
+        "pathway_key": "D",
+        "organisme": "LaunchX",
         "demarre": false,
         "periode": "Non initié",
         "step": "Ideation"
@@ -18981,8 +18968,8 @@
         "pathway": "CAT D -> Pré-Idéation",
         "pathway_key": "D",
         "organisme": "LaunchX",
-        "demarre": false,
-        "periode": "Non initié",
+        "demarre": true,
+        "periode": "2026-02-01 00:00:00",
         "step": "Categorization"
       },
       {
@@ -18994,8 +18981,8 @@
         "pathway": "CAT A&B -> Idéation",
         "pathway_key": "AB",
         "organisme": "Le HUB",
-        "demarre": false,
-        "periode": "Non initié",
+        "demarre": true,
+        "periode": "Stand By",
         "step": "Ideation"
       },
       {
@@ -19007,8 +18994,8 @@
         "pathway": "CAT D -> Pré-Idéation",
         "pathway_key": "D",
         "organisme": "LaunchX",
-        "demarre": false,
-        "periode": "Non initié",
+        "demarre": true,
+        "periode": "2026-02-01 00:00:00",
         "step": "Categorization"
       },
       {
@@ -19033,8 +19020,8 @@
         "pathway": "CAT D -> Pré-Idéation",
         "pathway_key": "D",
         "organisme": "LaunchX",
-        "demarre": false,
-        "periode": "Non initié",
+        "demarre": true,
+        "periode": "2026-02-01 00:00:00",
         "step": "Categorization"
       },
       {
@@ -19059,8 +19046,8 @@
         "pathway": "CAT A&B -> Idéation",
         "pathway_key": "AB",
         "organisme": "Le HUB",
-        "demarre": false,
-        "periode": "Non initié",
+        "demarre": true,
+        "periode": "2026-02-01 00:00:00",
         "step": "Ideation"
       },
       {
@@ -19072,8 +19059,8 @@
         "pathway": "CAT D -> Pré-Idéation",
         "pathway_key": "D",
         "organisme": "LaunchX",
-        "demarre": false,
-        "periode": "Non initié",
+        "demarre": true,
+        "periode": "2026-02-01 00:00:00",
         "step": "Categorization"
       },
       {
@@ -19086,7 +19073,7 @@
         "pathway_key": "D",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "periode": "2025-10-01 00:00:00",
         "step": "Categorization"
       },
       {
@@ -19108,11 +19095,11 @@
         "lead": "Jamal-Eddine ZEROUAL",
         "sbu": "Mining",
         "site": "Gantour",
-        "pathway": "Entrepreneurial Certificate",
-        "pathway_key": "F",
-        "organisme": "Le HUB",
-        "demarre": false,
-        "periode": "Non initié",
+        "pathway": "Quick wins -> Move Up",
+        "pathway_key": "QW",
+        "organisme": "MindX",
+        "demarre": true,
+        "periode": "2025-10-01 00:00:00",
         "step": "Categorization"
       },
       {
@@ -19137,8 +19124,8 @@
         "pathway": "CAT D -> Pré-Idéation",
         "pathway_key": "D",
         "organisme": "LaunchX",
-        "demarre": false,
-        "periode": "Non initié",
+        "demarre": true,
+        "periode": "2026-02-01 00:00:00",
         "step": "Categorization"
       },
       {
@@ -19163,8 +19150,8 @@
         "pathway": "Quick wins -> Move Up",
         "pathway_key": "QW",
         "organisme": "MindX",
-        "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "demarre": false,
+        "periode": "Non initié",
         "step": "Categorization"
       },
       {
@@ -19202,8 +19189,8 @@
         "pathway": "CAT C -> Pré-Idéation",
         "pathway_key": "C",
         "organisme": "LaunchX",
-        "demarre": false,
-        "periode": "Non initié",
+        "demarre": true,
+        "periode": "2026-02-01 00:00:00",
         "step": "Categorization"
       },
       {
@@ -19241,8 +19228,8 @@
         "pathway": "CAT D -> Pré-Idéation",
         "pathway_key": "D",
         "organisme": "LaunchX",
-        "demarre": false,
-        "periode": "Non initié",
+        "demarre": true,
+        "periode": "2026-02-01 00:00:00",
         "step": "Categorization"
       },
       {
@@ -19254,8 +19241,8 @@
         "pathway": "CAT A&B -> Idéation",
         "pathway_key": "AB",
         "organisme": "Le HUB",
-        "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "demarre": false,
+        "periode": "Non initié",
         "step": "Categorization"
       },
       {
@@ -19280,8 +19267,8 @@
         "pathway": "CAT D -> Pré-Idéation",
         "pathway_key": "D",
         "organisme": "LaunchX",
-        "demarre": false,
-        "periode": "Non initié",
+        "demarre": true,
+        "periode": "2026-02-01 00:00:00",
         "step": "Categorization"
       },
       {
@@ -19306,8 +19293,8 @@
         "pathway": "CAT A&B -> Idéation",
         "pathway_key": "AB",
         "organisme": "Le HUB",
-        "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "demarre": false,
+        "periode": "Non initié",
         "step": "Categorization"
       },
       {
@@ -19319,8 +19306,8 @@
         "pathway": "CAT C -> Pré-Idéation",
         "pathway_key": "C",
         "organisme": "LaunchX",
-        "demarre": false,
-        "periode": "Non initié",
+        "demarre": true,
+        "periode": "2026-02-01 00:00:00",
         "step": "Categorization"
       },
       {
@@ -19332,8 +19319,8 @@
         "pathway": "CAT A&B -> Idéation",
         "pathway_key": "AB",
         "organisme": "Le HUB",
-        "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "demarre": false,
+        "periode": "Non initié",
         "step": "Categorization"
       },
       {
@@ -19384,8 +19371,8 @@
         "pathway": "CAT D -> Pré-Idéation",
         "pathway_key": "D",
         "organisme": "LaunchX",
-        "demarre": false,
-        "periode": "Non initié",
+        "demarre": true,
+        "periode": "2026-02-01 00:00:00",
         "step": "Categorization"
       },
       {
@@ -19397,8 +19384,8 @@
         "pathway": "CAT A&B -> Idéation",
         "pathway_key": "AB",
         "organisme": "Le HUB",
-        "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "demarre": false,
+        "periode": "Non initié",
         "step": "Categorization"
       },
       {
@@ -19423,8 +19410,8 @@
         "pathway": "Entrepreneurial Certificate",
         "pathway_key": "F",
         "organisme": "Le HUB",
-        "demarre": false,
-        "periode": "Non initié",
+        "demarre": true,
+        "periode": "2025-12-01 00:00:00",
         "step": "Categorization"
       },
       {
@@ -19436,8 +19423,8 @@
         "pathway": "CAT C -> Pré-Idéation",
         "pathway_key": "C",
         "organisme": "LaunchX",
-        "demarre": false,
-        "periode": "Non initié",
+        "demarre": true,
+        "periode": "2026-02-01 00:00:00",
         "step": "Categorization"
       },
       {
@@ -19475,8 +19462,8 @@
         "pathway": "CAT D -> Pré-Idéation",
         "pathway_key": "D",
         "organisme": "LaunchX",
-        "demarre": false,
-        "periode": "Non initié",
+        "demarre": true,
+        "periode": "2026-02-01 00:00:00",
         "step": "Categorization"
       },
       {
@@ -19488,8 +19475,8 @@
         "pathway": "CAT D -> Pré-Idéation",
         "pathway_key": "D",
         "organisme": "LaunchX",
-        "demarre": false,
-        "periode": "Non initié",
+        "demarre": true,
+        "periode": "2026-02-01 00:00:00",
         "step": "Categorization"
       },
       {
@@ -19501,8 +19488,8 @@
         "pathway": "CAT A&B -> Idéation",
         "pathway_key": "AB",
         "organisme": "Le HUB",
-        "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "demarre": false,
+        "periode": "Non initié",
         "step": "Categorization"
       },
       {
@@ -19558,19 +19545,6 @@
         "step": "Categorization"
       },
       {
-        "id": 1261,
-        "name": "OCP M3AK -",
-        "lead": "Mustapha EL KHADIRI",
-        "sbu": "Mining",
-        "site": "Casablanca",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
-        "demarre": false,
-        "periode": "Non initié",
-        "step": "Categorization"
-      },
-      {
         "id": 1262,
         "name": "ASKHYDRO",
         "lead": "Ahmed ASKOUAY",
@@ -19592,8 +19566,8 @@
         "pathway": "CAT A&B -> Idéation",
         "pathway_key": "AB",
         "organisme": "Le HUB",
-        "demarre": false,
-        "periode": "Non initié",
+        "demarre": true,
+        "periode": "2026-02-01 00:00:00",
         "step": "Ideation"
       },
       {
@@ -19605,8 +19579,8 @@
         "pathway": "CAT D -> Pré-Idéation",
         "pathway_key": "D",
         "organisme": "LaunchX",
-        "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "demarre": false,
+        "periode": "Non initié",
         "step": "Categorization"
       },
       {
@@ -19618,19 +19592,6 @@
         "pathway": "CAT D -> Pré-Idéation",
         "pathway_key": "D",
         "organisme": "LaunchX",
-        "demarre": false,
-        "periode": "Non initié",
-        "step": "Categorization"
-      },
-      {
-        "id": 1270,
-        "name": "HUMANEXT",
-        "lead": "Mustapha HANOUN",
-        "sbu": "Manufacturing",
-        "site": "Jorf Lasfar",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
         "demarre": false,
         "periode": "Non initié",
         "step": "Categorization"
@@ -19696,8 +19657,8 @@
         "pathway": "CAT A&B -> Idéation",
         "pathway_key": "AB",
         "organisme": "Le HUB",
-        "demarre": false,
-        "periode": "Non initié",
+        "demarre": true,
+        "periode": "2026-02-01 00:00:00",
         "step": "Ideation"
       },
       {
@@ -19709,8 +19670,8 @@
         "pathway": "CAT A&B -> Idéation",
         "pathway_key": "AB",
         "organisme": "Le HUB",
-        "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "demarre": false,
+        "periode": "Non initié",
         "step": "Categorization"
       },
       {
@@ -19774,19 +19735,6 @@
         "pathway": "CAT D -> Pré-Idéation",
         "pathway_key": "D",
         "organisme": "LaunchX",
-        "demarre": false,
-        "periode": "Non initié",
-        "step": "Categorization"
-      },
-      {
-        "id": 1289,
-        "name": "SYSTEME DE FILTRATION",
-        "lead": "Hicham EL MEDEOUI",
-        "sbu": "Mining",
-        "site": "Phosboucraa",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
         "demarre": false,
         "periode": "Non initié",
         "step": "Categorization"
@@ -19888,9 +19836,9 @@
         "lead": "Wissal HERRA",
         "sbu": "Mining",
         "site": "Gantour",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
+        "pathway": "CAT D -> Pré-Idéation",
+        "pathway_key": "D",
+        "organisme": "LaunchX",
         "demarre": false,
         "periode": "Non initié",
         "step": "Categorization"
@@ -19904,19 +19852,6 @@
         "pathway": "CAT D -> Pré-Idéation",
         "pathway_key": "D",
         "organisme": "LaunchX",
-        "demarre": false,
-        "periode": "Non initié",
-        "step": "Categorization"
-      },
-      {
-        "id": 1303,
-        "name": "Réducteur Maroc RedMa",
-        "lead": "Reda MOHSSINE",
-        "sbu": "Mining",
-        "site": "Khouribga",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
         "demarre": false,
         "periode": "Non initié",
         "step": "Categorization"
@@ -19956,19 +19891,6 @@
         "pathway": "CAT D -> Pré-Idéation",
         "pathway_key": "D",
         "organisme": "LaunchX",
-        "demarre": false,
-        "periode": "Non initié",
-        "step": "Categorization"
-      },
-      {
-        "id": 1307,
-        "name": "Situation FLOTAI",
-        "lead": "Anas ALLAM",
-        "sbu": "Mining",
-        "site": "Khouribga",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
         "demarre": false,
         "periode": "Non initié",
         "step": "Categorization"
@@ -20026,19 +19948,6 @@
         "step": "Categorization"
       },
       {
-        "id": 1312,
-        "name": "ReRoad",
-        "lead": "Ilyas BOUSAREHANE",
-        "sbu": "Mining",
-        "site": "Khouribga",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
-        "demarre": false,
-        "periode": "Non initié",
-        "step": "Categorization"
-      },
-      {
         "id": 1313,
         "name": "SUNSTONE",
         "lead": "Najoua BOUCHERIFA",
@@ -20083,22 +19992,9 @@
         "lead": "Tarik BALLAOUI",
         "sbu": "Mining",
         "site": "Khouribga",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
-        "demarre": false,
-        "periode": "Non initié",
-        "step": "Categorization"
-      },
-      {
-        "id": 1317,
-        "name": "OPTISEC",
-        "lead": "Halima FAHLAOUI",
-        "sbu": "Mining",
-        "site": "Khouribga",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
+        "pathway": "CAT D -> Pré-Idéation",
+        "pathway_key": "D",
+        "organisme": "LaunchX",
         "demarre": false,
         "periode": "Non initié",
         "step": "Categorization"
@@ -20234,58 +20130,6 @@
         "step": "Categorization"
       },
       {
-        "id": 1328,
-        "name": "Slurry Chainsinght",
-        "lead": "Dounia MAKHCHANE",
-        "sbu": "Mining",
-        "site": "Khouribga",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
-        "demarre": false,
-        "periode": "Non initié",
-        "step": "Categorization"
-      },
-      {
-        "id": 1329,
-        "name": "SC OptimAI",
-        "lead": "Farouq ESSADIKI",
-        "sbu": "Mining",
-        "site": "Gantour",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
-        "demarre": false,
-        "periode": "Non initié",
-        "step": "Categorization"
-      },
-      {
-        "id": 1330,
-        "name": "Wash2build",
-        "lead": "Yousra BELMADI",
-        "sbu": "Mining",
-        "site": "Gantour",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
-        "demarre": false,
-        "periode": "Non initié",
-        "step": "Categorization"
-      },
-      {
-        "id": 1331,
-        "name": "BAIBA, EL GHAOUAGH",
-        "lead": "Med Salem BELALEM",
-        "sbu": "Mining",
-        "site": "Phosboucraa",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
-        "demarre": false,
-        "periode": "Non initié",
-        "step": "Categorization"
-      },
-      {
         "id": 1332,
         "name": "MineOps Assist",
         "lead": "Mouad BAZZAR",
@@ -20338,19 +20182,6 @@
         "step": "Categorization"
       },
       {
-        "id": 1337,
-        "name": "Silice réactive",
-        "lead": "Essaid ZEROUALI",
-        "sbu": "Mining",
-        "site": "Gantour",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
-        "demarre": false,
-        "periode": "Non initié",
-        "step": "Categorization"
-      },
-      {
         "id": 1338,
         "name": "LeanDry AI",
         "lead": "Ouadie LOUHOUDI",
@@ -20372,32 +20203,6 @@
         "pathway": "CAT D -> Pré-Idéation",
         "pathway_key": "D",
         "organisme": "LaunchX",
-        "demarre": false,
-        "periode": "Non initié",
-        "step": "Categorization"
-      },
-      {
-        "id": 1340,
-        "name": "décadumiation des phosphates",
-        "lead": "Abderrahim FARIAT",
-        "sbu": "Mining",
-        "site": "Khouribga",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
-        "demarre": false,
-        "periode": "Non initié",
-        "step": "Categorization"
-      },
-      {
-        "id": 1341,
-        "name": "Modélisation du décapage",
-        "lead": "Rachid BENEDDI",
-        "sbu": "Mining",
-        "site": "Gantour",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
         "demarre": false,
         "periode": "Non initié",
         "step": "Categorization"
@@ -20442,58 +20247,6 @@
         "step": "Categorization"
       },
       {
-        "id": 1348,
-        "name": "PhosInk",
-        "lead": "Farouq ESSADIKI",
-        "sbu": "Mining",
-        "site": "Gantour",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
-        "demarre": false,
-        "periode": "Non initié",
-        "step": "Categorization"
-      },
-      {
-        "id": 1349,
-        "name": "OCP Re-Match",
-        "lead": "Moaad FILALI",
-        "sbu": "Mining",
-        "site": "Gantour",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
-        "demarre": false,
-        "periode": "Non initié",
-        "step": "Categorization"
-      },
-      {
-        "id": 1350,
-        "name": "O&M Multitech",
-        "lead": "Er-Rafa AZZAZ",
-        "sbu": "Mining",
-        "site": "Gantour",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
-        "demarre": false,
-        "periode": "Non initié",
-        "step": "Categorization"
-      },
-      {
-        "id": 1351,
-        "name": "OCP Reman",
-        "lead": "Soumia BOUMADIAN",
-        "sbu": "Mining",
-        "site": "Gantour",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
-        "demarre": false,
-        "periode": "Non initié",
-        "step": "Categorization"
-      },
-      {
         "id": 1352,
         "name": "My Reactif",
         "lead": "Hafid BILOU",
@@ -20502,32 +20255,6 @@
         "pathway": "CAT D -> Pré-Idéation",
         "pathway_key": "D",
         "organisme": "LaunchX",
-        "demarre": false,
-        "periode": "Non initié",
-        "step": "Categorization"
-      },
-      {
-        "id": 1353,
-        "name": "Maintenance Prédictive LMEA",
-        "lead": "Mohammed ELMOUDDEN",
-        "sbu": "Mining",
-        "site": "Khouribga",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
-        "demarre": false,
-        "periode": "Non initié",
-        "step": "Categorization"
-      },
-      {
-        "id": 1354,
-        "name": "Mine RegTrack 360",
-        "lead": "Ansam DRIOUICHE",
-        "sbu": "Mining",
-        "site": "Gantour",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
         "demarre": false,
         "periode": "Non initié",
         "step": "Categorization"
@@ -20603,9 +20330,9 @@
         "lead": "Jawad FATIH",
         "sbu": "Mining",
         "site": "Gantour",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
+        "pathway": "CAT C -> Pré-Idéation",
+        "pathway_key": "C",
+        "organisme": "LaunchX",
         "demarre": false,
         "periode": "Non initié",
         "step": "Categorization"
@@ -20624,19 +20351,6 @@
         "step": "Categorization"
       },
       {
-        "id": 1364,
-        "name": "NexCAL FEED",
-        "lead": "Yousra BELMADI",
-        "sbu": "Mining",
-        "site": "Gantour",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
-        "demarre": false,
-        "periode": "Non initié",
-        "step": "Categorization"
-      },
-      {
         "id": 1366,
         "name": "Renew-Lub",
         "lead": "Lamfadel BENABDEJLIL",
@@ -20650,19 +20364,6 @@
         "step": "Categorization"
       },
       {
-        "id": 1367,
-        "name": "OCP MinePulse",
-        "lead": "Rida BOUNANA",
-        "sbu": "Mining",
-        "site": "Gantour",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
-        "demarre": false,
-        "periode": "Non initié",
-        "step": "Categorization"
-      },
-      {
         "id": 1369,
         "name": "Mining Circular Industry Prog'",
         "lead": "Lamfadel BENABDEJLIL",
@@ -20671,71 +20372,6 @@
         "pathway": "CAT C -> Pré-Idéation",
         "pathway_key": "C",
         "organisme": "LaunchX",
-        "demarre": false,
-        "periode": "Non initié",
-        "step": "Categorization"
-      },
-      {
-        "id": 1370,
-        "name": "Laboratoire mobile",
-        "lead": "Essaid ZEROUALI",
-        "sbu": "Mining",
-        "site": "Gantour",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
-        "demarre": false,
-        "periode": "Non initié",
-        "step": "Categorization"
-      },
-      {
-        "id": 1371,
-        "name": "Substitution matériel labo",
-        "lead": "Essaid ZEROUALI",
-        "sbu": "Mining",
-        "site": "Gantour",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
-        "demarre": false,
-        "periode": "Non initié",
-        "step": "Categorization"
-      },
-      {
-        "id": 1372,
-        "name": "HVAL",
-        "lead": "Sliman MANAR",
-        "sbu": "UM6P",
-        "site": "Safi",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
-        "demarre": false,
-        "periode": "Non initié",
-        "step": "Categorization"
-      },
-      {
-        "id": 1373,
-        "name": "IA appliquée à la maintenance",
-        "lead": "Oualid EL AMRI",
-        "sbu": "Mining",
-        "site": "Khouribga",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
-        "demarre": false,
-        "periode": "Non initié",
-        "step": "Categorization"
-      },
-      {
-        "id": 1374,
-        "name": "Smart Lab",
-        "lead": "Jihane NOURI",
-        "sbu": "Mining",
-        "site": "Khouribga",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
         "demarre": false,
         "periode": "Non initié",
         "step": "Categorization"
@@ -20759,35 +20395,9 @@
         "lead": "Kaoutar EL GHRIBE",
         "sbu": "Mining",
         "site": "Khouribga",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
-        "demarre": false,
-        "periode": "Non initié",
-        "step": "Categorization"
-      },
-      {
-        "id": 1377,
-        "name": "OCP W2E  (Waste to Energy)",
-        "lead": "Adnane HAMDANI",
-        "sbu": "Mining",
-        "site": "Khouribga",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
-        "demarre": false,
-        "periode": "Non initié",
-        "step": "Categorization"
-      },
-      {
-        "id": 1378,
-        "name": "Sharing Experiences",
-        "lead": "Omar MOUTTAQUI",
-        "sbu": "Mining",
-        "site": "Casablanca",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
+        "pathway": "CAT D -> Pré-Idéation",
+        "pathway_key": "D",
+        "organisme": "LaunchX",
         "demarre": false,
         "periode": "Non initié",
         "step": "Categorization"
@@ -20798,9 +20408,9 @@
         "lead": "Omar DAGHOUS",
         "sbu": "Mining",
         "site": "Khouribga",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
+        "pathway": "CAT D -> Pré-Idéation",
+        "pathway_key": "D",
+        "organisme": "LaunchX",
         "demarre": false,
         "periode": "Non initié",
         "step": "Categorization"
@@ -20811,22 +20421,9 @@
         "lead": "Souhail BOUCHRIHA",
         "sbu": "Mining",
         "site": "Khouribga",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
-        "demarre": false,
-        "periode": "Non initié",
-        "step": "Categorization"
-      },
-      {
-        "id": 1382,
-        "name": "Sonda X \"Drill X\" Exploration",
-        "lead": "Brahim BAAMAR",
-        "sbu": "Mining",
-        "site": "Khouribga",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
+        "pathway": "CAT D -> Pré-Idéation",
+        "pathway_key": "D",
+        "organisme": "LaunchX",
         "demarre": false,
         "periode": "Non initié",
         "step": "Categorization"
@@ -20834,73 +20431,73 @@
     ],
     "sbu_section": {
       "CAT A&B -> Demo Day": {
-        "Mining": 62,
-        "Manufacturing": 12,
+        "Mining": 26,
+        "Manufacturing": 11,
         "Nutricrops": 2,
         "InnovX": 1,
         "SPS": 1,
         "OTED": 1,
         "Fondation Phosboucraa": 1,
-        "UM6P": 2,
-        "Total": 82
+        "UM6P": 1,
+        "Total": 44
       },
       "CAT C -> Pré-idéation": {
         "Fondation Phosboucraa": 1,
-        "Mining": 38,
+        "Mining": 39,
         "OTED": 1,
         "Manufacturing": 3,
         "Corporate": 1,
-        "Total": 44
+        "Total": 45
       },
       "CAT D -> Pré-idéation": {
         "Fondation Phosboucraa": 1,
-        "Mining": 60,
+        "Mining": 66,
         "Manufacturing": 22,
         "UM6P": 4,
         "Corporate": 1,
         "Rock": 1,
         "Autre": 3,
         "OTED": 1,
-        "Total": 93
+        "Total": 99
       },
       "Quick Wins -> Move Up": {
         "Manufacturing": 13,
-        "Mining": 8,
+        "Mining": 9,
         "Corporate": 1,
-        "Total": 22
+        "Total": 23
       },
       "CAT F -> Entrepreneurial Certificate": {
-        "Mining": 7,
-        "Total": 7
+        "Mining": 6,
+        "Total": 6
       }
     },
     "site_section": {
       "CAT A&B -> Demo Day": {
-        "Khouribga": 35,
-        "Safi": 6,
-        "Phosboucraa": 5,
-        "Jorf Lasfar": 9,
-        "Gantour": 21,
-        "Casablanca": 6,
-        "Total": 82
+        "Khouribga": 18,
+        "Safi": 5,
+        "Phosboucraa": 3,
+        "Jorf Lasfar": 8,
+        "Gantour": 6,
+        "Casablanca": 4,
+        "Total": 44
       },
       "CAT C -> Pré-idéation": {
         "Phosboucraa": 17,
         "Khouribga": 12,
-        "Gantour": 8,
+        "Gantour": 9,
         "Casablanca": 2,
         "Safi": 2,
         "Jorf Lasfar": 3,
-        "Total": 44
+        "Total": 45
       },
       "CAT D -> Pré-idéation": {
         "Phosboucraa": 21,
-        "Khouribga": 26,
+        "Khouribga": 31,
         "Jorf Lasfar": 13,
-        "Gantour": 19,
+        "Gantour": 20,
         "Safi": 13,
         "Casablanca": 1,
-        "Total": 93
+        "Total": 99
       },
       "Quick Wins -> Move Up": {
         "Jorf Lasfar": 9,
@@ -20908,50 +20505,50 @@
         "Khouribga": 4,
         "Casablanca": 1,
         "Phosboucraa": 1,
-        "Gantour": 2,
-        "Total": 22
+        "Gantour": 3,
+        "Total": 23
       },
       "CAT F -> Entrepreneurial Certificate": {
         "Phosboucraa": 4,
-        "Gantour": 3,
-        "Total": 7
+        "Gantour": 2,
+        "Total": 6
       }
     },
-    "total": 248,
+    "total": 217,
     "p2_stats": {
       "AB": {
-        "total": 82,
-        "demarre": 10
+        "total": 44,
+        "demarre": 8
       },
       "C": {
-        "total": 44,
-        "demarre": 30
-      },
-      "D": {
-        "total": 93,
+        "total": 45,
         "demarre": 33
       },
+      "D": {
+        "total": 99,
+        "demarre": 42
+      },
       "QW": {
-        "total": 22,
+        "total": 23,
         "demarre": 9
       },
       "F": {
-        "total": 7,
-        "demarre": 2
+        "total": 6,
+        "demarre": 3
       }
     },
     "org_counts": {
-      "LaunchX": 137,
-      "Le HUB": 89,
-      "MindX": 22
+      "LaunchX": 144,
+      "Le HUB": 50,
+      "MindX": 23
     },
     "perimetre": {
       "total": 260,
-      "avec_parcours": 248,
-      "sans_parcours": 12,
-      "pct_cat": 95.4,
-      "total_demarre": 84,
-      "pct_demarre": 33.9
+      "avec_parcours": 217,
+      "sans_parcours": 43,
+      "pct_cat": 83.5,
+      "total_demarre": 95,
+      "pct_demarre": 43.8
     }
   }
 }
