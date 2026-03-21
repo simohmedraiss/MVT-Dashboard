@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17 08:21",
-  "file_date": "17/03/2026",
+  "generated_at": "2026-03-21 01:01",
+  "file_date": "21/03/2026",
   "p1": {
     "records": [
       {
@@ -2133,7 +2133,7 @@
       },
       {
         "name": "The Lens of Industry",
-        "lead": "Ayoub BOUMEKRNI",
+        "lead": "Ayoub BOUMEKNI",
         "desc": "Creation d'une cellule mediatique / audiovisuelle",
         "status": "active",
         "stage": "Ideation",
@@ -17763,7 +17763,7 @@
       {
         "id": 135,
         "name": "The Lens of Industry",
-        "lead": "Ayoub BOUMEKRNI",
+        "lead": "Ayoub BOUMEKNI",
         "sbu": "Mining",
         "site": "Phosboucraa",
         "pathway": "CAT C -> Pré-Idéation",
@@ -20361,6 +20361,32 @@
         "step": "Categorization"
       },
       {
+        "id": 1372,
+        "name": "HVAL",
+        "lead": "Sliman MANAR",
+        "sbu": "UM6P",
+        "site": "Safi",
+        "pathway": "CAT C -> Pré-Idéation",
+        "pathway_key": "C",
+        "organisme": "LaunchX",
+        "demarre": false,
+        "periode": "Non initié",
+        "step": "Categorization"
+      },
+      {
+        "id": 1374,
+        "name": "Smart Lab",
+        "lead": "Jihane NOURI",
+        "sbu": "Mining",
+        "site": "Khouribga",
+        "pathway": "CAT D -> Pré-Idéation",
+        "pathway_key": "D",
+        "organisme": "LaunchX",
+        "demarre": false,
+        "periode": "Non initié",
+        "step": "Categorization"
+      },
+      {
         "id": 1375,
         "name": "Mine of Talents",
         "lead": "Nawfal ABBASSI SABER",
@@ -20377,6 +20403,19 @@
         "id": 1376,
         "name": "Mining Knowledge Hub",
         "lead": "Kaoutar EL GHRIBE",
+        "sbu": "Mining",
+        "site": "Khouribga",
+        "pathway": "CAT D -> Pré-Idéation",
+        "pathway_key": "D",
+        "organisme": "LaunchX",
+        "demarre": false,
+        "periode": "Non initié",
+        "step": "Categorization"
+      },
+      {
+        "id": 1377,
+        "name": "OCP W2E  (Waste to Energy)",
+        "lead": "Adnane HAMDANI",
         "sbu": "Mining",
         "site": "Khouribga",
         "pathway": "CAT D -> Pré-Idéation",
@@ -20431,18 +20470,19 @@
         "OTED": 1,
         "Manufacturing": 3,
         "Corporate": 1,
-        "Total": 45
+        "UM6P": 1,
+        "Total": 46
       },
       "CAT D -> Pré-idéation": {
         "Fondation Phosboucraa": 1,
-        "Mining": 66,
+        "Mining": 68,
         "Manufacturing": 22,
         "UM6P": 4,
         "Corporate": 1,
         "Rock": 1,
         "Autre": 3,
         "OTED": 1,
-        "Total": 99
+        "Total": 101
       },
       "Quick Wins -> Move Up": {
         "Manufacturing": 13,
@@ -20470,18 +20510,18 @@
         "Khouribga": 12,
         "Gantour": 9,
         "Casablanca": 2,
-        "Safi": 2,
+        "Safi": 3,
         "Jorf Lasfar": 3,
-        "Total": 45
+        "Total": 46
       },
       "CAT D -> Pré-idéation": {
         "Phosboucraa": 21,
-        "Khouribga": 31,
+        "Khouribga": 33,
         "Jorf Lasfar": 13,
         "Gantour": 20,
         "Safi": 13,
         "Casablanca": 1,
-        "Total": 99
+        "Total": 101
       },
       "Quick Wins -> Move Up": {
         "Jorf Lasfar": 9,
@@ -20498,18 +20538,18 @@
         "Total": 6
       }
     },
-    "total": 217,
+    "total": 220,
     "p2_stats": {
       "AB": {
         "total": 44,
         "demarre": 8
       },
       "C": {
-        "total": 45,
+        "total": 46,
         "demarre": 33
       },
       "D": {
-        "total": 99,
+        "total": 101,
         "demarre": 42
       },
       "QW": {
@@ -20522,17 +20562,17 @@
       }
     },
     "org_counts": {
-      "LaunchX": 144,
+      "LaunchX": 147,
       "Le HUB": 50,
       "MindX": 23
     },
     "perimetre": {
       "total": 260,
-      "avec_parcours": 217,
-      "sans_parcours": 43,
-      "pct_cat": 83.5,
+      "avec_parcours": 220,
+      "sans_parcours": 40,
+      "pct_cat": 84.6,
       "total_demarre": 95,
-      "pct_demarre": 43.8
+      "pct_demarre": 43.2
     }
   }
 }
