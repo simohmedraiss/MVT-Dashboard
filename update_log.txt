@@ -1,6 +1,0 @@
-[2026-03-21 00:29] ✓ Étape 1 — DATA_Situations_Mouvement.xlsx téléchargé depuis SharePoint (8.71 MB, modifié il y a 3h)
-[2026-03-21 00:29] ✓ Étape 2 — Fichier déplacé vers DOSSIER (écrasement de l'ancienne version)
-[2026-03-21 00:29] ✓ Étape 3 — transform.py exécuté : 1099 situations P1, 260 périmètre P2, 220 avec parcours (84.6%), 95 démarrés (43.2%)
-[2026-03-21 00:29] ✓ Étape 3 — data.json généré (date fichier: 21/03/2026, commit local: d688374)
-[2026-03-21 00:29] ✗ Étape 4 — git push BLOQUÉ : credentials GitHub stockés dans le Keychain macOS, inaccessibles depuis la VM
-[2026-03-21 00:29]   → Commit local créé (d688374). Pour finaliser : lancer update.sh ou taper "git push origin main" dans un terminal Mac.
