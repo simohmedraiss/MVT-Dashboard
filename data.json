@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-24 13:09",
-  "file_date": "24/03/2026",
+  "generated_at": "2026-03-26 12:36",
+  "file_date": "26/03/2026",
   "p1": {
     "records": [
       {
@@ -903,7 +903,7 @@
         "name": "LES ARGILES DES HORIZONS",
         "lead": "Abdelaaziz IDMALK",
         "desc": "Valorisation et exploitation   des  argiles au gisements de cite de GANTOUR pour produire des matières de construction bâtiment à base des argiles .",
-        "status": "active",
+        "status": "discarded",
         "stage": "Ideation",
         "sbu": "Mining",
         "site": "Gantour",
@@ -2133,7 +2133,7 @@
       },
       {
         "name": "The Lens of Industry",
-        "lead": "Ayoub BOUMEKNI",
+        "lead": "Ayoub BOUMEKRNI",
         "desc": "Creation d'une cellule mediatique / audiovisuelle",
         "status": "active",
         "stage": "Ideation",
@@ -2487,7 +2487,7 @@
         "name": "OCP hydro",
         "lead": "Hamza AMTOUY",
         "desc": "L'hydraponie offre un potentiel immense pour améliorer la productivité agricole, la préservation de l'eau, la résilience des plantes face aux changements climatiques.",
-        "status": "active",
+        "status": "discarded",
         "stage": "Ideation",
         "sbu": "Manufacturing",
         "site": "Safi",
@@ -2951,7 +2951,7 @@
         "name": "coopératives نعاونو",
         "lead": "Rachid GAROHE",
         "desc": "Aider les coopératives à vendre leurs produits à travers la mise en place drs moyens pour vendre les produits des cooperatives ainsi de mettre à disposition aux collaborateurs OCP ces…",
-        "status": "active",
+        "status": "discarded",
         "stage": "Ideation",
         "sbu": "Manufacturing",
         "site": "Safi",
@@ -3255,7 +3255,7 @@
         "name": "Barrage d'eau de mer / H2 vert",
         "lead": "Hamza IBRAHIMI",
         "desc": "Barrage d'eau de mer et station de H2 vert  pour stockage d'énergie électrique excédentaire d'usine et Réduire l'empreinte carbone",
-        "status": "active",
+        "status": "discarded",
         "stage": "Ideation",
         "sbu": "Manufacturing",
         "site": "Jorf Lasfar",
@@ -5223,7 +5223,7 @@
         "name": "Le bien-être au région.",
         "lead": "Mohamed Fadel BIAY",
         "desc": "aquaparc",
-        "status": "active",
+        "status": "discarded",
         "stage": "Ideation",
         "sbu": "Mining",
         "site": "Phosboucraa",
@@ -6183,7 +6183,7 @@
         "name": "New Génération for water",
         "lead": "Nour El Yakine EL QACIMI",
         "desc": "Gérer et revaloriser les rejets phosphatés (stériles, phosphogypse, etc.) pour développer des membranes céramiques destinées à la filtration des rejets industriels (boues de lavage, eaux usées,",
-        "status": "active",
+        "status": "discarded",
         "stage": "Ideation",
         "sbu": "Mining",
         "site": "Phosboucraa",
@@ -9367,7 +9367,7 @@
         "name": "GDI_SOLUTION 4.0",
         "lead": "Fahd BENCHIHEB",
         "desc": "G.D.I. est une approche révolutionnaire et complète pour la surveillance, l'inspection et la maintenance des draglines.",
-        "status": "active",
+        "status": "discarded",
         "stage": "Ideation",
         "sbu": "Manufacturing",
         "site": "Phosboucraa",
@@ -9895,7 +9895,7 @@
         "name": "Smart Water Management System",
         "lead": "Youssef BOUZROUR",
         "desc": "Le projet de gestion digitale de l’eau au Maroc vise à optimiser l’efficacité des réseaux de distribution de l'eau en intégrant des capteurs IoT pour surveiller en temps réel les…",
-        "status": "active",
+        "status": "discarded",
         "stage": "Ideation",
         "sbu": "Mining",
         "site": "Khouribga",
@@ -9975,7 +9975,7 @@
         "name": "InService",
         "lead": "Noufel AIT EL MOHKHTAR",
         "desc": "L’idée est de créer une application qui rapproche les personnes à la recherche de services spécifiques et les professionnels qualifiés dans différents métiers.",
-        "status": "active",
+        "status": "discarded",
         "stage": "Ideation",
         "sbu": "Mining",
         "site": "Phosboucraa",
@@ -10567,7 +10567,7 @@
         "name": "PrevenPsy Center",
         "lead": "Mohsine BOUCHNAFA",
         "desc": "Le Centre de Psychologie est dédié à la prévention et à la promotion de la santé mentale.",
-        "status": "active",
+        "status": "discarded",
         "stage": "Ideation",
         "sbu": "Mining",
         "site": "Gantour",
@@ -10711,7 +10711,7 @@
         "name": "SECURELINK",
         "lead": "Adil ZOURAKI",
         "desc": "\"Le projet de Terminal de sûreté, facilite le signalement des incidents et accidents dans les zones industrielles, permettant une réaction rapide et une meilleure analyse des données.",
-        "status": "active",
+        "status": "discarded",
         "stage": "Ideation",
         "sbu": "Mining",
         "site": "Phosboucraa",
@@ -10775,7 +10775,7 @@
         "name": "OCP SEMI-MARATHON DE SAFI",
         "lead": "Youness BOUDARQA",
         "desc": "Organisons un semi-marathon à Safi, mêlant sport et culture. Cet événement dynamisera l'économie locale, valorisera le patrimoine et encouragera un mode de vie sain.",
-        "status": "active",
+        "status": "discarded",
         "stage": "Ideation",
         "sbu": "Manufacturing",
         "site": "Safi",
@@ -10887,7 +10887,7 @@
         "name": "Carte électronique solution",
         "lead": "Mohamed CHAMEKH",
         "desc": "L’objectif de cette idée est de contribuer activement à la réparation et au maintien des cartes électroniques,",
-        "status": "active",
+        "status": "discarded",
         "stage": "Ideation",
         "sbu": "Mining",
         "site": "Phosboucraa",
@@ -10903,7 +10903,7 @@
         "name": "OCP QualityEdge Solutions",
         "lead": "Taoufiq MAHLOUB",
         "desc": "Standardiser. Accréditer. Capitaliser le savoir-faire._x000D_ Pour des analyses fiables, comparables et reconnues.",
-        "status": "active",
+        "status": "discarded",
         "stage": "Ideation",
         "sbu": "UM6P",
         "site": "Safi",
@@ -10967,7 +10967,7 @@
         "name": "FertiGrow",
         "lead": "Elbachir EL HAMED",
         "desc": "Notre situation vise à lancer une brand \"garden fertlizers'' sur Amazon FBA, marquant une transition du B2B vers le B2C.",
-        "status": "active",
+        "status": "discarded",
         "stage": "Ideation",
         "sbu": "Mining",
         "site": "Phosboucraa",
@@ -11143,7 +11143,7 @@
         "name": "La dalle creuse",
         "lead": "Youssef KAMOUNI",
         "desc": "Parmi les nouveaux techniques de construction des dalles, on trouve des dalles creuses qui reposent sur l'utilisation des ballons en plastique attachés à des armatures pour donner des avantages économiques…",
-        "status": "active",
+        "status": "discarded",
         "stage": "Ideation",
         "sbu": "Manufacturing",
         "site": "Jorf Lasfar",
@@ -12151,7 +12151,7 @@
         "name": "Plantes vs Plastiques",
         "lead": "Fadoua EL BRIHI",
         "desc": "Et si les déchets de nos plantes devenaient les matériaux de demain ? _x000D_ En valorisant ces résidus jusque-là jetés, nous pouvons créer des alternatives durables au plastique,",
-        "status": "active",
+        "status": "discarded",
         "stage": "Ideation",
         "sbu": "OTED",
         "site": "Casablanca",
@@ -12295,7 +12295,7 @@
         "name": "TransAfrique",
         "lead": "Aziz NASSIRI",
         "desc": "Projet de transport routier de marchandises positionnée sur le corridor entre les ports Marocains et les payes du Sahel_x000D_ L'originalité du projet réside dans son modèle économique un partenariat ou…",
-        "status": "active",
+        "status": "discarded",
         "stage": "Ideation",
         "sbu": "Mining",
         "site": "Khouribga",
@@ -12599,7 +12599,7 @@
         "name": "OCP-ISST Maroc",
         "lead": "Mohamed KAOUH",
         "desc": "infirmier spécialisé en santé au travail a bientôt au Maroc . Le groupe OCP, déjà investi dans cette formation, dispose d'une équipe expérimentée.",
-        "status": "active",
+        "status": "discarded",
         "stage": "Ideation",
         "sbu": "Manufacturing",
         "site": "Safi",
@@ -12919,7 +12919,7 @@
         "name": "club de multi-tir",
         "lead": "El mehdi EL HAMZI",
         "desc": "club de multi-tir\" désigne un lieu où plusieurs disciplines de tir sportif peuvent être pratiquées.",
-        "status": "active",
+        "status": "discarded",
         "stage": "Ideation",
         "sbu": "Mining",
         "site": "Gantour",
@@ -13111,7 +13111,7 @@
         "name": "XConnect",
         "lead": "Youssef NADIF",
         "desc": "XCONNECT répond au défi des réseaux instables et peu sécurisés en industrie. Elle vise à déployer des réseaux privés LTE/5G localement, pour offrir une connectivité fiable,",
-        "status": "active",
+        "status": "discarded",
         "stage": "Ideation",
         "sbu": "Mining",
         "site": "Khouribga",
@@ -13319,7 +13319,7 @@
         "name": "cleancar&go",
         "lead": "Imad YAZZO",
         "desc": "Un service innovant de lavage de voitures à sec et écologique proposé sur le site même de l’entreprise, pendant les heures de travail des collaborateurs._x000D_ _x000D_",
-        "status": "active",
+        "status": "discarded",
         "stage": "Ideation",
         "sbu": "Mining",
         "site": "Jorf Lasfar",
@@ -13607,7 +13607,7 @@
         "name": "BagProd",
         "lead": "Abdelouahad DAOUI",
         "desc": "Lancer une unité industrielle spécialisée dans la fabrication de Big Bags (FIBC) en polypropylène tissé, destinés à OCP pour Transport & Conditionnement d’Engrais de site de SAFI",
-        "status": "active",
+        "status": "discarded",
         "stage": "Framing",
         "sbu": "Manufacturing",
         "site": "Safi",
@@ -14071,7 +14071,7 @@
         "name": "Smart & Green Mobility",
         "lead": "El mehdi ZIDANY",
         "desc": "Notre solution envisage de remplacer le parc automobile thermique existant par des voitures électriques qui permet à notre groupe OCP de réduire ses coûts,",
-        "status": "active",
+        "status": "discarded",
         "stage": "Framing",
         "sbu": "Manufacturing",
         "site": "Safi",
@@ -14807,7 +14807,7 @@
         "name": "Smart Corridor \"TransAfrique\".",
         "lead": "Aziz NASSIRI",
         "desc": "Smart corridor, est une plateforme Intelligente (AI) de gestion de Flotte Maroc-Pays du Sahel qui se repose sur une approche modulaire,",
-        "status": "active",
+        "status": "discarded",
         "stage": "Framing",
         "sbu": "Mining",
         "site": "Khouribga",
@@ -15015,7 +15015,7 @@
         "name": "Mastery+",
         "lead": "Messoud CHAKHCHAOUI",
         "desc": "À travers ce challenge, nous voulons prouver qu’une gestion réglementaire peut devenir un levier de performance grâce à la digitalisation et à l’innovation.",
-        "status": "active",
+        "status": "discarded",
         "stage": "Framing",
         "sbu": "Manufacturing",
         "site": "Jorf Lasfar",
@@ -15351,7 +15351,7 @@
         "name": "COMPOST ADD",
         "lead": "Kamal AHL SIDI HOUMMAD",
         "desc": "utiliser le composte amélioré pour accroitre  l'efficacité des firtil chemique",
-        "status": "active",
+        "status": "discarded",
         "stage": "Framing",
         "sbu": "Mining",
         "site": "Phosboucraa",
@@ -16007,7 +16007,7 @@
         "name": "IA Twin : sautage efficiency",
         "lead": "Aziz ETTOUZI",
         "desc": "Transformation digitale des opérations de tir par deux agents IA complémentaires IA 1 : analyse géométrique et géologique (reconstitution 3D,",
-        "status": "active",
+        "status": "discarded",
         "stage": "Framing",
         "sbu": "Mining",
         "site": "Phosboucraa",
@@ -16203,22 +16203,6 @@
         "stage": "Framing",
         "sbu": "Manufacturing",
         "site": "Safi",
-        "type": null,
-        "horizon": null,
-        "theme": null,
-        "goal": null,
-        "demo_day": false,
-        "hacking": false,
-        "impact_gate": false
-      },
-      {
-        "name": "marbre artificiel",
-        "lead": "Mhammed HARBALA",
-        "desc": "le phosphogypse représente un défi environnemental en raison des risque liés à son stockage.sa valorisation en carbonate de calcium ou en marbre artificiel constitue une solution durable alliant protection de…",
-        "status": "active",
-        "stage": "Framing",
-        "sbu": "Autre",
-        "site": "Gantour",
         "type": null,
         "horizon": null,
         "theme": null,
@@ -16903,7 +16887,7 @@
         "name": "décadumiation des phosphates",
         "lead": "Abderrahim FARIAT",
         "desc": "à l'entrée à la laverie d'environ 60-70mg/Kg-P2O5, nous voulons atteindre moins de 30mg/Kg P2o5",
-        "status": "active",
+        "status": "discarded",
         "stage": "Framing",
         "sbu": "Mining",
         "site": "Khouribga",
@@ -17575,6 +17559,342 @@
         "name": "Sonda X \"Drill X\" Exploration",
         "lead": "Brahim BAAMAR",
         "desc": "Sonda X vise à créer une entité de forage d’élite, intégrée au cœur de notre écosystème OCP-UM6P,",
+        "status": "discarded",
+        "stage": "Framing",
+        "sbu": "Mining",
+        "site": "Khouribga",
+        "type": null,
+        "horizon": null,
+        "theme": null,
+        "goal": null,
+        "demo_day": false,
+        "hacking": false,
+        "impact_gate": false
+      },
+      {
+        "name": "Occupational Health for All",
+        "lead": "Abdelhadi ELYACOUBI",
+        "desc": "La création d’un Service Médical Interentreprises (SIST) dédié aux sous‑traitants intervenant sur les sites d’OCP afin d’assurer un suivi médical réglementaire,",
+        "status": "active",
+        "stage": "Framing",
+        "sbu": "Mining",
+        "site": "Phosboucraa",
+        "type": null,
+        "horizon": null,
+        "theme": null,
+        "goal": null,
+        "demo_day": false,
+        "hacking": false,
+        "impact_gate": false
+      },
+      {
+        "name": "K-Fertilizer slow-release",
+        "lead": "hajar DRIOUCH",
+        "desc": "Développement d'un engrais potassique local à libération lente à partir de roches silicatées riches en K, activées par traitement hydrothermal.",
+        "status": "active",
+        "stage": "Framing",
+        "sbu": "Corporate",
+        "site": "Casablanca",
+        "type": null,
+        "horizon": null,
+        "theme": null,
+        "goal": null,
+        "demo_day": false,
+        "hacking": false,
+        "impact_gate": false
+      },
+      {
+        "name": "CalciX",
+        "lead": "hajar DRIOUCH",
+        "desc": "Valorisation des stériles carbonatés issus des mines de phosphate pour la production d'additifs d'alimentation animale (MCP/DCP/MDCP) et dérivés calciques industriels, en substitution du calcaire importé dans le process Phosfeed (Safi).",
+        "status": "active",
+        "stage": "Framing",
+        "sbu": "Corporate",
+        "site": "Casablanca",
+        "type": null,
+        "horizon": null,
+        "theme": null,
+        "goal": null,
+        "demo_day": false,
+        "hacking": false,
+        "impact_gate": false
+      },
+      {
+        "name": "Système innovant",
+        "lead": "hajar DRIOUCH",
+        "desc": "Système innovant pour le contrôle rapide et en ligne de la qualité du phosphate en cours de production,",
+        "status": "active",
+        "stage": "Framing",
+        "sbu": "Corporate",
+        "site": "Casablanca",
+        "type": null,
+        "horizon": null,
+        "theme": null,
+        "goal": null,
+        "demo_day": false,
+        "hacking": false,
+        "impact_gate": false
+      },
+      {
+        "name": "Renewable Energy Driven CO₂",
+        "lead": "hajar DRIOUCH",
+        "desc": "Système innovant de captage CO₂ par solvants, conçu pour fonctionner en mode flexible en utilisant les énergies renouvelables,",
+        "status": "active",
+        "stage": "Framing",
+        "sbu": "Corporate",
+        "site": "Casablanca",
+        "type": null,
+        "horizon": null,
+        "theme": null,
+        "goal": null,
+        "demo_day": false,
+        "hacking": false,
+        "impact_gate": false
+      },
+      {
+        "name": "Biostimulants végétaux",
+        "lead": "hajar DRIOUCH",
+        "desc": "Développement de biostimulants végétaux issus de macroalgues marocaines, destinés aux applications foliaires et au sol, aux formulations organo-minérales enrichies en P et K.",
+        "status": "active",
+        "stage": "Framing",
+        "sbu": "Corporate",
+        "site": "Casablanca",
+        "type": null,
+        "horizon": null,
+        "theme": null,
+        "goal": null,
+        "demo_day": false,
+        "hacking": false,
+        "impact_gate": false
+      },
+      {
+        "name": "Hello Gaz Capture",
+        "lead": "hajar DRIOUCH",
+        "desc": "Valorisation de la biomasse cellulosique (déchets de palmiers, alfa, etc.) pour produire des billes 100% cellulosiques sans réaction chimique, fonctionnalisées pour la capture sélective des gaz (CO₂),",
+        "status": "active",
+        "stage": "Framing",
+        "sbu": "Corporate",
+        "site": "Casablanca",
+        "type": null,
+        "horizon": null,
+        "theme": null,
+        "goal": null,
+        "demo_day": false,
+        "hacking": false,
+        "impact_gate": false
+      },
+      {
+        "name": "Heatstock",
+        "lead": "hajar DRIOUCH",
+        "desc": "Réutilisation de la chaleur perdue des procédés industriels (gaz chauds rejetés, fumées, chaleur de refroidissement, etc.) au lieu de la dissiper dans l'environnement,",
+        "status": "active",
+        "stage": "Framing",
+        "sbu": "Corporate",
+        "site": "Casablanca",
+        "type": null,
+        "horizon": null,
+        "theme": null,
+        "goal": null,
+        "demo_day": false,
+        "hacking": false,
+        "impact_gate": false
+      },
+      {
+        "name": "Film adhésif pour panneaux PV",
+        "lead": "hajar DRIOUCH",
+        "desc": "Film adhésif antisalissures applicable sur les panneaux PV pour optimiser leur rendement, réduire leur fréquence de nettoyage et leur consommation en eau,",
+        "status": "active",
+        "stage": "Framing",
+        "sbu": "Corporate",
+        "site": "Casablanca",
+        "type": null,
+        "horizon": null,
+        "theme": null,
+        "goal": null,
+        "demo_day": false,
+        "hacking": false,
+        "impact_gate": false
+      },
+      {
+        "name": "Traitement eaux usées by EFC",
+        "lead": "hajar DRIOUCH",
+        "desc": "Développement d'un matériau composite éco-friendly pour le traitement secondaire des eaux usées urbaines et industrielles, avec prototype 20L déjà installé sur une STEP OCP à Khouribga.",
+        "status": "active",
+        "stage": "Framing",
+        "sbu": "Corporate",
+        "site": "Casablanca",
+        "type": null,
+        "horizon": null,
+        "theme": null,
+        "goal": null,
+        "demo_day": false,
+        "hacking": false,
+        "impact_gate": false
+      },
+      {
+        "name": "Solution anti-colmatage UHMWPE",
+        "lead": "hajar DRIOUCH",
+        "desc": "Revêtement de benne à base de plaques UHMWPE (ultra-haute masse molaire polyéthylène) pour le transport de matériaux collants (phosphates, minéraux, etc.),",
+        "status": "active",
+        "stage": "Framing",
+        "sbu": "Corporate",
+        "site": "Casablanca",
+        "type": null,
+        "horizon": null,
+        "theme": null,
+        "goal": null,
+        "demo_day": false,
+        "hacking": false,
+        "impact_gate": false
+      },
+      {
+        "name": "processus de la consignation",
+        "lead": "Hicham EL-AMOUD",
+        "desc": "les opérations de consignation et déconsignation sont essentielles pour la sécurité des intervenants, mais reposent encore sur des méthodes papier.",
+        "status": "active",
+        "stage": "Framing",
+        "sbu": "Manufacturing",
+        "site": "Jorf Lasfar",
+        "type": null,
+        "horizon": null,
+        "theme": null,
+        "goal": null,
+        "demo_day": false,
+        "hacking": false,
+        "impact_gate": false
+      },
+      {
+        "name": "Foncier: Levier de Valeur",
+        "lead": "Sumaia RAISSOUNI",
+        "desc": "Structuration d’une plateforme foncière industrielle visant à transformer les actifs fonciers du Groupe en levier de création de valeur, de financement des infrastructures et de développement industriel durable.",
+        "status": "active",
+        "stage": "Framing",
+        "sbu": "Manufacturing",
+        "site": "Casablanca",
+        "type": null,
+        "horizon": null,
+        "theme": null,
+        "goal": null,
+        "demo_day": false,
+        "hacking": false,
+        "impact_gate": false
+      },
+      {
+        "name": "PHOSWATER",
+        "lead": "Ayoub BOUMEKRNI",
+        "desc": "PHOSWATER est une eau fonctionnelle innovante enrichie en minéraux issus du phosphate, conçue pour hydrater, recharger l’énergie cellulaire et améliorer la performance, même dans les conditions les plus extrêmes.",
+        "status": "active",
+        "stage": "Framing",
+        "sbu": "Mining",
+        "site": "Phosboucraa",
+        "type": null,
+        "horizon": null,
+        "theme": null,
+        "goal": null,
+        "demo_day": false,
+        "hacking": false,
+        "impact_gate": false
+      },
+      {
+        "name": "OptiBurn",
+        "lead": "Abdelouahad ACHCHAR",
+        "desc": "OPTIBURN AI optimise la combustion des sécheurs OCP via Vision LWIR et IA (Digital Twin/RL). Réduit le fuel de 22% (12M MAD/an/four) avec un ROI < 12 mois.",
+        "status": "active",
+        "stage": "Framing",
+        "sbu": "Mining",
+        "site": "Khouribga",
+        "type": null,
+        "horizon": null,
+        "theme": null,
+        "goal": null,
+        "demo_day": false,
+        "hacking": false,
+        "impact_gate": false
+      },
+      {
+        "name": "OCP Laboratory Services",
+        "lead": "Assia MATRI",
+        "desc": "OCP Laboratory Services est une entité dédiée aux analyses granulochimiques et techniques analytiques, regroupant les experts du Groupe afin de valoriser l’expertise interne déjà consolidée.",
+        "status": "active",
+        "stage": "Framing",
+        "sbu": "Mining",
+        "site": "Gantour",
+        "type": null,
+        "horizon": null,
+        "theme": null,
+        "goal": null,
+        "demo_day": false,
+        "hacking": false,
+        "impact_gate": false
+      },
+      {
+        "name": "Application \"OCP Connect\"",
+        "lead": "Elmehdi ELFISSI",
+        "desc": "OCP Connect est une application interne destinée exclusivement aux collaborateurs OCP, permettant de centraliser la communication et les alertes dans un espace sécurisé.",
+        "status": "active",
+        "stage": "Framing",
+        "sbu": "Manufacturing",
+        "site": "Safi",
+        "type": null,
+        "horizon": null,
+        "theme": null,
+        "goal": null,
+        "demo_day": false,
+        "hacking": false,
+        "impact_gate": false
+      },
+      {
+        "name": "TerraFresh",
+        "lead": "Abdelouahad ACHCHAR",
+        "desc": "Nous sommes le circuit court digital du bio marocain: nous collectons, packageons et livrons les produits des petits agriculteurs locaux directement aux familles et restaurants des grandes villes.",
+        "status": "active",
+        "stage": "Framing",
+        "sbu": "Mining",
+        "site": "Khouribga",
+        "type": null,
+        "horizon": null,
+        "theme": null,
+        "goal": null,
+        "demo_day": false,
+        "hacking": false,
+        "impact_gate": false
+      },
+      {
+        "name": "Mind(set) in Motion",
+        "lead": "Salma CHAOUI ROQAI",
+        "desc": "Comprendre et cultiver des mindsets clés (growth, strategic, digital, collectif, resilient) et identifier les comportements et leviers permettant à chacun de s’adapter aux situations,",
+        "status": "active",
+        "stage": "Framing",
+        "sbu": "SPS",
+        "site": "Casablanca",
+        "type": null,
+        "horizon": null,
+        "theme": null,
+        "goal": null,
+        "demo_day": false,
+        "hacking": false,
+        "impact_gate": false
+      },
+      {
+        "name": "Ujju",
+        "lead": "Abdessamad ELWAARABI",
+        "desc": "Hhh",
+        "status": "discarded",
+        "stage": "Framing",
+        "sbu": "Mining",
+        "site": "Phosboucraa",
+        "type": null,
+        "horizon": null,
+        "theme": null,
+        "goal": null,
+        "demo_day": false,
+        "hacking": false,
+        "impact_gate": false
+      },
+      {
+        "name": "Essour-Phos",
+        "lead": "Abderrahim FARIAT",
+        "desc": "Notre objectif est de développer ce projet qui nous permettra d'extraire l'eau claire , directement et immédiatement des boues,",
         "status": "active",
         "stage": "Framing",
         "sbu": "Mining",
@@ -17592,6 +17912,32 @@
   "p2": {
     "situations": [
       {
+        "id": 9,
+        "name": "Sport4Family",
+        "lead": "Abderrahmane AIT HADDOU",
+        "sbu": "Manufacturing",
+        "site": "Jorf Lasfar",
+        "pathway": "Quick wins -> Move Up",
+        "pathway_key": "QW",
+        "organisme": "MindX",
+        "demarre": true,
+        "periode": "2025-10-01 00:00:00",
+        "step": "Ideation"
+      },
+      {
+        "id": 29,
+        "name": "ProcureX",
+        "lead": "Aziza ES SAOUDI",
+        "sbu": "Manufacturing",
+        "site": "Jorf Lasfar",
+        "pathway": "Quick wins -> Move Up",
+        "pathway_key": "QW",
+        "organisme": "MindX",
+        "demarre": true,
+        "periode": "2025-10-01 00:00:00",
+        "step": "Ideation"
+      },
+      {
         "id": 30,
         "name": "Musée Phosboucraa",
         "lead": "Abdessamad EL FOUKHARI",
@@ -17601,7 +17947,20 @@
         "pathway_key": "C",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2025-12-01 00:00:00",
+        "periode": "04/12/2025 au 18/12/2025",
+        "step": "Ideation"
+      },
+      {
+        "id": 31,
+        "name": "Production  d'Énergie",
+        "lead": "Abdessamad EL FOUKHARI",
+        "sbu": "Fondation Phosboucraa",
+        "site": "Phosboucraa",
+        "pathway": "CAT D -> Pré-Idéation",
+        "pathway_key": "D",
+        "organisme": "LaunchX",
+        "demarre": true,
+        "periode": "04/12/2025 au 18/12/2025",
         "step": "Ideation"
       },
       {
@@ -17618,19 +17977,6 @@
         "step": "Ideation"
       },
       {
-        "id": 38,
-        "name": "EcoMotor Initiative",
-        "lead": "Ali IAZZA",
-        "sbu": "Mining",
-        "site": "Khouribga",
-        "pathway": "Quick wins -> Move Up",
-        "pathway_key": "QW",
-        "organisme": "MindX",
-        "demarre": false,
-        "periode": "Non initié",
-        "step": "Ideation"
-      },
-      {
         "id": 40,
         "name": "PHOSTECH  SOLUTION",
         "lead": "Abdelali KHABIR",
@@ -17640,34 +17986,8 @@
         "pathway_key": "D",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2025-10-01 00:00:00",
+        "periode": "23/10/2025 au 05/11/2025",
         "step": "Categorization"
-      },
-      {
-        "id": 56,
-        "name": "Holds Humidity Dryer",
-        "lead": "Abdessamad EL MAGUI",
-        "sbu": "Manufacturing",
-        "site": "Jorf Lasfar",
-        "pathway": "Quick wins -> Move Up",
-        "pathway_key": "QW",
-        "organisme": "MindX",
-        "demarre": false,
-        "periode": "Non initié",
-        "step": "Ideation"
-      },
-      {
-        "id": 58,
-        "name": "LES ARGILES DES HORIZONS",
-        "lead": "Abdelaaziz IDMALK",
-        "sbu": "Mining",
-        "site": "Gantour",
-        "pathway": "CAT D -> Pré-Idéation",
-        "pathway_key": "D",
-        "organisme": "LaunchX",
-        "demarre": true,
-        "periode": "2025-10-01 00:00:00",
-        "step": "Ideation"
       },
       {
         "id": 76,
@@ -17679,7 +17999,7 @@
         "pathway_key": "D",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "periode": "18/02/2026 au 05/03/2026",
         "step": "Ideation"
       },
       {
@@ -17705,7 +18025,7 @@
         "pathway_key": "D",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2025-12-01 00:00:00",
+        "periode": "04/12/2025 au 18/12/2025",
         "step": "Ideation"
       },
       {
@@ -17722,6 +18042,19 @@
         "step": "Ideation"
       },
       {
+        "id": 135,
+        "name": "The Lens of Industry",
+        "lead": "Ayoub BOUMEKRNI",
+        "sbu": "Mining",
+        "site": "Phosboucraa",
+        "pathway": "CAT C -> Pré-Idéation",
+        "pathway_key": "C",
+        "organisme": "LaunchX",
+        "demarre": true,
+        "periode": "04/12/2025 au 18/12/2025",
+        "step": "Ideation"
+      },
+      {
         "id": 143,
         "name": "OCP Customization Solutions",
         "lead": "Dadaie DAIHI",
@@ -17731,7 +18064,7 @@
         "pathway_key": "D",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2025-12-01 00:00:00",
+        "periode": "04/12/2025 au 18/12/2025",
         "step": "Ideation"
       },
       {
@@ -17757,7 +18090,7 @@
         "pathway_key": "C",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "periode": "18/02/2026 au 05/03/2026",
         "step": "Ideation"
       },
       {
@@ -17779,11 +18112,11 @@
         "lead": "Adil KARIYES",
         "sbu": "Mining",
         "site": "Phosboucraa",
-        "pathway": "Quick wins -> Move Up",
-        "pathway_key": "QW",
-        "organisme": "MindX",
+        "pathway": "CAT C -> Pré-Idéation",
+        "pathway_key": "C",
+        "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2025-12-01 00:00:00",
+        "periode": "04/12/2025 au 18/12/2025",
         "step": "Ideation"
       },
       {
@@ -17809,7 +18142,7 @@
         "pathway_key": "C",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "periode": "18/02/2026 au 05/03/2026",
         "step": "Ideation"
       },
       {
@@ -17822,7 +18155,20 @@
         "pathway_key": "D",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "periode": "18/02/2026 au 05/03/2026",
+        "step": "Ideation"
+      },
+      {
+        "id": 320,
+        "name": "Production intelligente",
+        "lead": "Mustapha ZOUIR",
+        "sbu": "Manufacturing",
+        "site": "Jorf Lasfar",
+        "pathway": "Quick wins -> Move Up",
+        "pathway_key": "QW",
+        "organisme": "MindX",
+        "demarre": true,
+        "periode": "2025-10-01 00:00:00",
         "step": "Ideation"
       },
       {
@@ -17835,7 +18181,7 @@
         "pathway_key": "D",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2025-12-01 00:00:00",
+        "periode": "04/12/2025 au 18/12/2025",
         "step": "Ideation"
       },
       {
@@ -17852,6 +18198,19 @@
         "step": "Categorization"
       },
       {
+        "id": 340,
+        "name": "Clean Solar Drying Solutions",
+        "lead": "Mohamed ECHCHANTOUFI",
+        "sbu": "Mining",
+        "site": "Phosboucraa",
+        "pathway": "CAT C -> Pré-Idéation",
+        "pathway_key": "C",
+        "organisme": "LaunchX",
+        "demarre": true,
+        "periode": "04/12/2025 au 18/12/2025",
+        "step": "Ideation"
+      },
+      {
         "id": 344,
         "name": "OCP Energy",
         "lead": "Mohamed NADIR",
@@ -17860,9 +18219,22 @@
         "pathway": "CAT D -> Pré-Idéation",
         "pathway_key": "D",
         "organisme": "LaunchX",
-        "demarre": true,
-        "periode": "2025-10-01 00:00:00",
+        "demarre": false,
+        "periode": "Non initié",
         "step": "Categorization"
+      },
+      {
+        "id": 345,
+        "name": "ODC Ocp Drone Cleaner",
+        "lead": "Mohamed NADIR",
+        "sbu": "Mining",
+        "site": "Phosboucraa",
+        "pathway": "CAT D -> Pré-Idéation",
+        "pathway_key": "D",
+        "organisme": "LaunchX",
+        "demarre": true,
+        "periode": "04/12/2025 au 18/12/2025",
+        "step": "Ideation"
       },
       {
         "id": 369,
@@ -17874,7 +18246,7 @@
         "pathway_key": "C",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2025-12-01 00:00:00",
+        "periode": "04/12/2025 au 18/12/2025",
         "step": "Ideation"
       },
       {
@@ -17888,19 +18260,6 @@
         "organisme": "MindX",
         "demarre": true,
         "periode": "2025-10-01 00:00:00",
-        "step": "Ideation"
-      },
-      {
-        "id": 390,
-        "name": "New Génération for water",
-        "lead": "Nour El Yakine EL QACIMI",
-        "sbu": "Mining",
-        "site": "Phosboucraa",
-        "pathway": "CAT D -> Pré-Idéation",
-        "pathway_key": "D",
-        "organisme": "LaunchX",
-        "demarre": true,
-        "periode": "2025-12-01 00:00:00",
         "step": "Ideation"
       },
       {
@@ -17922,11 +18281,11 @@
         "lead": "Rachid KHIAR",
         "sbu": "Mining",
         "site": "Gantour",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
+        "pathway": "CAT C -> Pré-Idéation",
+        "pathway_key": "C",
+        "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2025-10-01 00:00:00",
+        "periode": "23/10/2025 au 05/11/2025",
         "step": "Ideation"
       },
       {
@@ -17952,7 +18311,7 @@
         "pathway_key": "D",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2025-10-01 00:00:00",
+        "periode": "23/10/2025 au 05/11/2025",
         "step": "Ideation"
       },
       {
@@ -17965,7 +18324,7 @@
         "pathway_key": "D",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "periode": "18/02/2026 au 05/03/2026",
         "step": "Ideation"
       },
       {
@@ -17982,6 +18341,19 @@
         "step": "Ideation"
       },
       {
+        "id": 537,
+        "name": "MatFlow solution",
+        "lead": "Mohamed LAKHDAR",
+        "sbu": "Manufacturing",
+        "site": "Jorf Lasfar",
+        "pathway": "Quick wins -> Move Up",
+        "pathway_key": "QW",
+        "organisme": "MindX",
+        "demarre": true,
+        "periode": "2025-10-01 00:00:00",
+        "step": "Ideation"
+      },
+      {
         "id": 549,
         "name": "Safety of Excellence",
         "lead": "Jaouad MOKRINI",
@@ -17991,7 +18363,7 @@
         "pathway_key": "C",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2025-10-01 00:00:00",
+        "periode": "23/10/2025 au 05/11/2025",
         "step": "Ideation"
       },
       {
@@ -18004,20 +18376,7 @@
         "pathway_key": "C",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2025-12-01 00:00:00",
-        "step": "Ideation"
-      },
-      {
-        "id": 611,
-        "name": "GDI_SOLUTION 4.0",
-        "lead": "Fahd BENCHIHEB",
-        "sbu": "Manufacturing",
-        "site": "Phosboucraa",
-        "pathway": "CAT D -> Pré-Idéation",
-        "pathway_key": "D",
-        "organisme": "LaunchX",
-        "demarre": true,
-        "periode": "2025-12-01 00:00:00",
+        "periode": "04/12/2025 au 18/12/2025",
         "step": "Ideation"
       },
       {
@@ -18030,21 +18389,8 @@
         "pathway_key": "C",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2025-12-01 00:00:00",
+        "periode": "04/12/2025 au 18/12/2025",
         "step": "Categorization"
-      },
-      {
-        "id": 644,
-        "name": "Smart Water Management System",
-        "lead": "Youssef BOUZROUR",
-        "sbu": "Mining",
-        "site": "Khouribga",
-        "pathway": "Quick wins -> Move Up",
-        "pathway_key": "QW",
-        "organisme": "MindX",
-        "demarre": true,
-        "periode": "2025-10-01 00:00:00",
-        "step": "Ideation"
       },
       {
         "id": 647,
@@ -18056,7 +18402,7 @@
         "pathway_key": "C",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "periode": "18/02/2026 au 05/03/2026",
         "step": "Ideation"
       },
       {
@@ -18073,16 +18419,16 @@
         "step": "Ideation"
       },
       {
-        "id": 692,
-        "name": "PrevenPsy Center",
-        "lead": "Mohsine BOUCHNAFA",
+        "id": 693,
+        "name": "MyHealth MyDMP",
+        "lead": "Abdelhadi ELYACOUBI",
         "sbu": "Mining",
-        "site": "Gantour",
+        "site": "Phosboucraa",
         "pathway": "CAT D -> Pré-Idéation",
         "pathway_key": "D",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2025-10-01 00:00:00",
+        "periode": "04/12/2025 au 18/12/2025",
         "step": "Ideation"
       },
       {
@@ -18099,42 +18445,16 @@
         "step": "Ideation"
       },
       {
-        "id": 713,
-        "name": "MSW: Mobile Sea Water",
-        "lead": "Abdelouahad ACHCHAR",
-        "sbu": "Mining",
-        "site": "Khouribga",
+        "id": 705,
+        "name": "Mouvement Stand Up",
+        "lead": "Yasmine BERRAOUI",
+        "sbu": "Corporate",
+        "site": "Casablanca",
         "pathway": "Quick wins -> Move Up",
         "pathway_key": "QW",
         "organisme": "MindX",
         "demarre": false,
         "periode": "Non initié",
-        "step": "Ideation"
-      },
-      {
-        "id": 714,
-        "name": "Carte électronique solution",
-        "lead": "Mohamed CHAMEKH",
-        "sbu": "Mining",
-        "site": "Phosboucraa",
-        "pathway": "Quick wins -> Move Up",
-        "pathway_key": "QW",
-        "organisme": "MindX",
-        "demarre": false,
-        "periode": "Non initié",
-        "step": "Ideation"
-      },
-      {
-        "id": 715,
-        "name": "OCP QualityEdge Solutions",
-        "lead": "Taoufiq MAHLOUB",
-        "sbu": "UM6P",
-        "site": "Safi",
-        "pathway": "CAT D -> Pré-Idéation",
-        "pathway_key": "D",
-        "organisme": "LaunchX",
-        "demarre": true,
-        "periode": "2025-12-01 00:00:00",
         "step": "Ideation"
       },
       {
@@ -18160,20 +18480,7 @@
         "pathway_key": "D",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2026-02-01 00:00:00",
-        "step": "Ideation"
-      },
-      {
-        "id": 732,
-        "name": "La dalle creuse",
-        "lead": "Youssef KAMOUNI",
-        "sbu": "Manufacturing",
-        "site": "Jorf Lasfar",
-        "pathway": "CAT D -> Pré-Idéation",
-        "pathway_key": "D",
-        "organisme": "LaunchX",
-        "demarre": false,
-        "periode": "Non initié",
+        "periode": "18/02/2026 au 05/03/2026",
         "step": "Ideation"
       },
       {
@@ -18212,7 +18519,7 @@
         "pathway_key": "C",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2025-12-01 00:00:00",
+        "periode": "04/12/2025 au 18/12/2025",
         "step": "Ideation"
       },
       {
@@ -18225,7 +18532,7 @@
         "pathway_key": "C",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2025-12-01 00:00:00",
+        "periode": "23/10/2025 au 05/11/2025",
         "step": "Ideation"
       },
       {
@@ -18238,7 +18545,7 @@
         "pathway_key": "C",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2025-12-01 00:00:00",
+        "periode": "04/12/2025 au 18/12/2025",
         "step": "Ideation"
       },
       {
@@ -18251,34 +18558,8 @@
         "pathway_key": "D",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "periode": "18/02/2026 au 05/03/2026",
         "step": "Categorization"
-      },
-      {
-        "id": 797,
-        "name": "Plantes vs Plastiques",
-        "lead": "Fadoua EL BRIHI",
-        "sbu": "OTED",
-        "site": "Casablanca",
-        "pathway": "CAT C -> Pré-Idéation",
-        "pathway_key": "C",
-        "organisme": "LaunchX",
-        "demarre": true,
-        "periode": "2025-10-01 00:00:00",
-        "step": "Ideation"
-      },
-      {
-        "id": 813,
-        "name": "TransAfrique",
-        "lead": "Aziz NASSIRI",
-        "sbu": "Mining",
-        "site": "Khouribga",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
-        "demarre": false,
-        "periode": "Non initié",
-        "step": "Ideation"
       },
       {
         "id": 823,
@@ -18290,7 +18571,7 @@
         "pathway_key": "C",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "periode": "18/02/2026 au 05/03/2026",
         "step": "Ideation"
       },
       {
@@ -18303,7 +18584,7 @@
         "pathway_key": "C",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2025-12-01 00:00:00",
+        "periode": "04/12/2025 au 18/12/2025",
         "step": "Categorization"
       },
       {
@@ -18316,7 +18597,7 @@
         "pathway_key": "D",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2025-12-01 00:00:00",
+        "periode": "04/12/2025 au 18/12/2025",
         "step": "Ideation"
       },
       {
@@ -18329,20 +18610,7 @@
         "pathway_key": "C",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2025-12-01 00:00:00",
-        "step": "Ideation"
-      },
-      {
-        "id": 832,
-        "name": "OCP-ISST Maroc",
-        "lead": "Mohamed KAOUH",
-        "sbu": "Manufacturing",
-        "site": "Safi",
-        "pathway": "CAT C -> Pré-Idéation",
-        "pathway_key": "C",
-        "organisme": "LaunchX",
-        "demarre": true,
-        "periode": "2025-10-01 00:00:00",
+        "periode": "04/12/2025 au 18/12/2025",
         "step": "Ideation"
       },
       {
@@ -18355,20 +18623,7 @@
         "pathway_key": "C",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2025-12-01 00:00:00",
-        "step": "Ideation"
-      },
-      {
-        "id": 852,
-        "name": "club de multi-tir",
-        "lead": "El mehdi EL HAMZI",
-        "sbu": "Mining",
-        "site": "Gantour",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
-        "demarre": true,
-        "periode": "2025-10-01 00:00:00",
+        "periode": "04/12/2025 au 18/12/2025",
         "step": "Ideation"
       },
       {
@@ -18377,24 +18632,11 @@
         "lead": "Abdechakur BAIBA",
         "sbu": "Mining",
         "site": "Phosboucraa",
-        "pathway": "Entrepreneurial Certificate",
-        "pathway_key": "F",
-        "organisme": "Le HUB",
+        "pathway": "CAT C -> Pré-Idéation",
+        "pathway_key": "C",
+        "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2025-12-01 00:00:00",
-        "step": "Ideation"
-      },
-      {
-        "id": 868,
-        "name": "XConnect",
-        "lead": "Youssef NADIF",
-        "sbu": "Mining",
-        "site": "Khouribga",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
-        "demarre": true,
-        "periode": "2025-10-01 00:00:00",
+        "periode": "04/12/2025 au 18/12/2025",
         "step": "Ideation"
       },
       {
@@ -18411,19 +18653,6 @@
         "step": "Ideation"
       },
       {
-        "id": 881,
-        "name": "cleancar&go",
-        "lead": "Imad YAZZO",
-        "sbu": "Mining",
-        "site": "Jorf Lasfar",
-        "pathway": "CAT C -> Pré-Idéation",
-        "pathway_key": "C",
-        "organisme": "LaunchX",
-        "demarre": true,
-        "periode": "2025-10-01 00:00:00",
-        "step": "Ideation"
-      },
-      {
         "id": 883,
         "name": "OCP ERGOLAB",
         "lead": "Mohamed KAOUH",
@@ -18433,7 +18662,7 @@
         "pathway_key": "C",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "periode": "18/02/2026 au 05/03/2026",
         "step": "Ideation"
       },
       {
@@ -18442,11 +18671,11 @@
         "lead": "Samir CHATOUI",
         "sbu": "Mining",
         "site": "Khouribga",
-        "pathway": "Quick wins -> Move Up",
-        "pathway_key": "QW",
-        "organisme": "MindX",
+        "pathway": "CAT C -> Pré-Idéation",
+        "pathway_key": "C",
+        "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2025-10-01 00:00:00",
+        "periode": "23/10/2025 au 05/11/2025",
         "step": "Ideation"
       },
       {
@@ -18468,11 +18697,11 @@
         "lead": "Nizar OMARI",
         "sbu": "Mining",
         "site": "Phosboucraa",
-        "pathway": "CAT A&B -> Idéation",
-        "pathway_key": "AB",
-        "organisme": "Le HUB",
+        "pathway": "CAT C -> Pré-Idéation",
+        "pathway_key": "C",
+        "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2025-12-01 00:00:00",
+        "periode": "04/12/2025 au 18/12/2025",
         "step": "Categorization"
       },
       {
@@ -18485,7 +18714,7 @@
         "pathway_key": "D",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2025-12-01 00:00:00",
+        "periode": "04/12/2025 au 18/12/2025",
         "step": "Ideation"
       },
       {
@@ -18511,20 +18740,7 @@
         "pathway_key": "C",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2025-12-01 00:00:00",
-        "step": "Categorization"
-      },
-      {
-        "id": 900,
-        "name": "BagProd",
-        "lead": "Abdelouahad DAOUI",
-        "sbu": "Manufacturing",
-        "site": "Safi",
-        "pathway": "CAT D -> Pré-Idéation",
-        "pathway_key": "D",
-        "organisme": "LaunchX",
-        "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "periode": "04/12/2025 au 18/12/2025",
         "step": "Categorization"
       },
       {
@@ -18572,11 +18788,11 @@
         "lead": "Ahmed HAYDARI",
         "sbu": "Mining",
         "site": "Phosboucraa",
-        "pathway": "Entrepreneurial Certificate",
-        "pathway_key": "F",
-        "organisme": "Le HUB",
+        "pathway": "CAT C -> Pré-Idéation",
+        "pathway_key": "C",
+        "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2025-12-01 00:00:00",
+        "periode": "04/12/2025 au 18/12/2025",
         "step": "Categorization"
       },
       {
@@ -18589,7 +18805,7 @@
         "pathway_key": "C",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "periode": "18/02/2026 au 05/03/2026",
         "step": "Categorization"
       },
       {
@@ -18602,7 +18818,7 @@
         "pathway_key": "D",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "periode": "18/02/2026 au 05/03/2026",
         "step": "Categorization"
       },
       {
@@ -18615,7 +18831,7 @@
         "pathway_key": "C",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "periode": "18/02/2026 au 05/03/2026",
         "step": "Categorization"
       },
       {
@@ -18641,7 +18857,7 @@
         "pathway_key": "D",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "periode": "18/02/2026 au 05/03/2026",
         "step": "Categorization"
       },
       {
@@ -18680,20 +18896,7 @@
         "pathway_key": "D",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2025-10-01 00:00:00",
-        "step": "Categorization"
-      },
-      {
-        "id": 974,
-        "name": "Smart & Green Mobility",
-        "lead": "El mehdi ZIDANY",
-        "sbu": "Manufacturing",
-        "site": "Safi",
-        "pathway": "CAT D -> Pré-Idéation",
-        "pathway_key": "D",
-        "organisme": "LaunchX",
-        "demarre": true,
-        "periode": "2025-10-01 00:00:00",
+        "periode": "18/02/2026 au 05/03/2026",
         "step": "Categorization"
       },
       {
@@ -18719,7 +18922,7 @@
         "pathway_key": "D",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "periode": "18/02/2026 au 05/03/2026",
         "step": "Categorization"
       },
       {
@@ -18745,7 +18948,7 @@
         "pathway_key": "D",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "periode": "18/02/2026 au 05/03/2026",
         "step": "Categorization"
       },
       {
@@ -18771,7 +18974,7 @@
         "pathway_key": "D",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "periode": "18/02/2026 au 05/03/2026",
         "step": "Categorization"
       },
       {
@@ -18810,7 +19013,7 @@
         "pathway_key": "D",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "periode": "18/02/2026 au 05/03/2026",
         "step": "Categorization"
       },
       {
@@ -18819,9 +19022,9 @@
         "lead": "Hassan MAIMOUNI",
         "sbu": "Manufacturing",
         "site": "Jorf Lasfar",
-        "pathway": "CAT D -> Pré-Idéation",
-        "pathway_key": "D",
-        "organisme": "LaunchX",
+        "pathway": "Quick wins -> Move Up",
+        "pathway_key": "QW",
+        "organisme": "MindX",
         "demarre": true,
         "periode": "2025-10-01 00:00:00",
         "step": "Categorization"
@@ -18848,8 +19051,8 @@
         "pathway": "Quick wins -> Move Up",
         "pathway_key": "QW",
         "organisme": "MindX",
-        "demarre": true,
-        "periode": "2025-10-01 00:00:00",
+        "demarre": false,
+        "periode": "Non initié",
         "step": "Categorization"
       },
       {
@@ -18866,19 +19069,6 @@
         "step": "Categorization"
       },
       {
-        "id": 1204,
-        "name": "Smart Corridor \"TransAfrique\".",
-        "lead": "Aziz NASSIRI",
-        "sbu": "Mining",
-        "site": "Khouribga",
-        "pathway": "CAT D -> Pré-Idéation",
-        "pathway_key": "D",
-        "organisme": "LaunchX",
-        "demarre": true,
-        "periode": "2026-02-01 00:00:00",
-        "step": "Categorization"
-      },
-      {
         "id": 1205,
         "name": "BIOMASSE Energy",
         "lead": "Brahim YAALA",
@@ -18888,7 +19078,7 @@
         "pathway_key": "C",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "periode": "18/02/2026 au 05/03/2026",
         "step": "Categorization"
       },
       {
@@ -18940,7 +19130,7 @@
         "pathway_key": "C",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "periode": "18/02/2026 au 05/03/2026",
         "step": "Categorization"
       },
       {
@@ -18967,19 +19157,6 @@
         "organisme": "LaunchX",
         "demarre": false,
         "periode": "Non initié",
-        "step": "Categorization"
-      },
-      {
-        "id": 1220,
-        "name": "Mastery+",
-        "lead": "Messoud CHAKHCHAOUI",
-        "sbu": "Manufacturing",
-        "site": "Jorf Lasfar",
-        "pathway": "CAT D -> Pré-Idéation",
-        "pathway_key": "D",
-        "organisme": "LaunchX",
-        "demarre": true,
-        "periode": "2026-02-01 00:00:00",
         "step": "Categorization"
       },
       {
@@ -19018,7 +19195,7 @@
         "pathway_key": "D",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "periode": "18/02/2026 au 05/03/2026",
         "step": "Categorization"
       },
       {
@@ -19031,7 +19208,7 @@
         "pathway_key": "D",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "periode": "18/02/2026 au 05/03/2026",
         "step": "Categorization"
       },
       {
@@ -19057,7 +19234,7 @@
         "pathway_key": "C",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "periode": "18/02/2026 au 05/03/2026",
         "step": "Categorization"
       },
       {
@@ -19122,7 +19299,7 @@
         "pathway_key": "D",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "periode": "18/02/2026 au 05/03/2026",
         "step": "Categorization"
       },
       {
@@ -19152,19 +19329,6 @@
         "step": "Categorization"
       },
       {
-        "id": 1242,
-        "name": "COMPOST ADD",
-        "lead": "Kamal AHL SIDI HOUMMAD",
-        "sbu": "Mining",
-        "site": "Phosboucraa",
-        "pathway": "Entrepreneurial Certificate",
-        "pathway_key": "F",
-        "organisme": "Le HUB",
-        "demarre": true,
-        "periode": "2025-12-01 00:00:00",
-        "step": "Categorization"
-      },
-      {
         "id": 1244,
         "name": "PROCESS TECH",
         "lead": "Tawfik BIGDAD",
@@ -19174,7 +19338,7 @@
         "pathway_key": "C",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "periode": "18/02/2026 au 05/03/2026",
         "step": "Categorization"
       },
       {
@@ -19213,7 +19377,7 @@
         "pathway_key": "D",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "periode": "18/02/2026 au 05/03/2026",
         "step": "Categorization"
       },
       {
@@ -19226,7 +19390,7 @@
         "pathway_key": "D",
         "organisme": "LaunchX",
         "demarre": true,
-        "periode": "2026-02-01 00:00:00",
+        "periode": "18/02/2026 au 05/03/2026",
         "step": "Categorization"
       },
       {
@@ -19438,19 +19602,6 @@
         "step": "Categorization"
       },
       {
-        "id": 1283,
-        "name": "IA Twin : sautage efficiency",
-        "lead": "Aziz ETTOUZI",
-        "sbu": "Mining",
-        "site": "Phosboucraa",
-        "pathway": "CAT D -> Pré-Idéation",
-        "pathway_key": "D",
-        "organisme": "LaunchX",
-        "demarre": false,
-        "periode": "Non initié",
-        "step": "Categorization"
-      },
-      {
         "id": 1284,
         "name": "TUBIUO",
         "lead": "Aziz EL KAMCHI",
@@ -19534,19 +19685,6 @@
         "lead": "Elmehdi ELFISSI",
         "sbu": "Manufacturing",
         "site": "Safi",
-        "pathway": "CAT D -> Pré-Idéation",
-        "pathway_key": "D",
-        "organisme": "LaunchX",
-        "demarre": false,
-        "periode": "Non initié",
-        "step": "Categorization"
-      },
-      {
-        "id": 1296,
-        "name": "marbre artificiel",
-        "lead": "Mhammed HARBALA",
-        "sbu": "Autre",
-        "site": "Gantour",
         "pathway": "CAT D -> Pré-Idéation",
         "pathway_key": "D",
         "organisme": "LaunchX",
@@ -20101,6 +20239,19 @@
         "step": "Categorization"
       },
       {
+        "id": 1363,
+        "name": "Revalorisation de  ferrailles",
+        "lead": "Yassine ELMAJIDI IDRISSI",
+        "sbu": "Mining",
+        "site": "Gantour",
+        "pathway": "CAT D -> Pré-Idéation",
+        "pathway_key": "D",
+        "organisme": "LaunchX",
+        "demarre": false,
+        "periode": "Non initié",
+        "step": "Categorization"
+      },
+      {
         "id": 1366,
         "name": "Renew-Lub",
         "lead": "Lamfadel BENABDEJLIL",
@@ -20216,126 +20367,166 @@
         "demarre": false,
         "periode": "Non initié",
         "step": "Categorization"
+      },
+      {
+        "id": 1395,
+        "name": "Foncier: Levier de Valeur",
+        "lead": "Sumaia RAISSOUNI",
+        "sbu": "Manufacturing",
+        "site": "Casablanca",
+        "pathway": "CAT A&B -> Idéation",
+        "pathway_key": "AB",
+        "organisme": "Le HUB",
+        "demarre": false,
+        "periode": "Non initié",
+        "step": "Categorization"
+      },
+      {
+        "id": 1399,
+        "name": "Application \"OCP Connect\"",
+        "lead": "Elmehdi ELFISSI",
+        "sbu": "Manufacturing",
+        "site": "Safi",
+        "pathway": "CAT D -> Pré-Idéation",
+        "pathway_key": "D",
+        "organisme": "LaunchX",
+        "demarre": false,
+        "periode": "Non initié",
+        "step": "Categorization"
+      },
+      {
+        "id": 1403,
+        "name": "Essour-Phos",
+        "lead": "Abderrahim FARIAT",
+        "sbu": "Mining",
+        "site": "Khouribga",
+        "pathway": "CAT C -> Pré-Idéation",
+        "pathway_key": "C",
+        "organisme": "LaunchX",
+        "demarre": false,
+        "periode": "Non initié",
+        "step": "Categorization"
       }
     ],
     "sbu_section": {
       "CAT A&B -> Demo Day": {
-        "Manufacturing": 11,
-        "Mining": 26,
+        "Manufacturing": 12,
         "Nutricrops": 2,
+        "Mining": 21,
         "InnovX": 1,
         "SPS": 1,
         "OTED": 1,
         "Fondation Phosboucraa": 1,
         "UM6P": 1,
-        "Total": 44
+        "Total": 40
       },
       "CAT C -> Pré-idéation": {
         "Fondation Phosboucraa": 1,
-        "Mining": 32,
-        "OTED": 1,
-        "Manufacturing": 3,
+        "Mining": 40,
+        "Manufacturing": 2,
         "Corporate": 1,
         "UM6P": 1,
-        "Total": 39
+        "Total": 45
       },
       "CAT D -> Pré-idéation": {
-        "Mining": 62,
-        "Manufacturing": 22,
-        "UM6P": 4,
+        "Fondation Phosboucraa": 1,
+        "Mining": 60,
+        "Manufacturing": 17,
+        "UM6P": 3,
         "Corporate": 1,
         "Rock": 1,
-        "Autre": 3,
+        "Autre": 2,
         "OTED": 1,
-        "Total": 94
+        "Total": 86
       },
       "Quick Wins -> Move Up": {
-        "Mining": 14,
-        "Manufacturing": 5,
-        "Total": 19
+        "Manufacturing": 9,
+        "Mining": 8,
+        "Corporate": 1,
+        "Total": 18
       },
       "CAT F -> Entrepreneurial Certificate": {
-        "Mining": 6,
-        "Total": 6
+        "Mining": 3,
+        "Total": 3
       }
     },
     "site_section": {
       "CAT A&B -> Demo Day": {
         "Safi": 5,
-        "Gantour": 8,
-        "Khouribga": 16,
-        "Phosboucraa": 3,
+        "Khouribga": 14,
         "Jorf Lasfar": 8,
-        "Casablanca": 4,
-        "Total": 44
+        "Gantour": 6,
+        "Casablanca": 5,
+        "Phosboucraa": 2,
+        "Total": 40
       },
       "CAT C -> Pré-idéation": {
-        "Phosboucraa": 12,
-        "Khouribga": 12,
-        "Casablanca": 2,
-        "Safi": 3,
-        "Jorf Lasfar": 3,
-        "Gantour": 7,
-        "Total": 39
+        "Phosboucraa": 18,
+        "Khouribga": 14,
+        "Gantour": 8,
+        "Safi": 2,
+        "Jorf Lasfar": 2,
+        "Casablanca": 1,
+        "Total": 45
       },
       "CAT D -> Pré-idéation": {
-        "Khouribga": 31,
-        "Jorf Lasfar": 13,
-        "Gantour": 20,
-        "Safi": 13,
         "Phosboucraa": 16,
+        "Khouribga": 30,
+        "Jorf Lasfar": 10,
+        "Safi": 11,
+        "Gantour": 18,
         "Casablanca": 1,
-        "Total": 94
+        "Total": 86
       },
       "Quick Wins -> Move Up": {
-        "Khouribga": 8,
-        "Jorf Lasfar": 4,
-        "Phosboucraa": 2,
+        "Jorf Lasfar": 8,
+        "Khouribga": 4,
+        "Casablanca": 1,
         "Gantour": 3,
         "Safi": 2,
-        "Total": 19
+        "Total": 18
       },
       "CAT F -> Entrepreneurial Certificate": {
-        "Phosboucraa": 4,
         "Gantour": 2,
-        "Total": 6
+        "Phosboucraa": 1,
+        "Total": 3
       }
     },
-    "total": 202,
+    "total": 192,
     "p2_stats": {
       "AB": {
-        "total": 44,
-        "demarre": 10
+        "total": 40,
+        "demarre": 6
       },
       "C": {
-        "total": 39,
-        "demarre": 26
+        "total": 45,
+        "demarre": 31
       },
       "D": {
-        "total": 94,
-        "demarre": 35
+        "total": 86,
+        "demarre": 27
       },
       "QW": {
-        "total": 19,
-        "demarre": 5
+        "total": 18,
+        "demarre": 6
       },
       "F": {
-        "total": 6,
-        "demarre": 3
+        "total": 3,
+        "demarre": 0
       }
     },
     "org_counts": {
-      "LaunchX": 133,
-      "Le HUB": 50,
-      "MindX": 19
+      "LaunchX": 131,
+      "Le HUB": 43,
+      "MindX": 18
     },
     "perimetre": {
-      "total": 260,
-      "avec_parcours": 202,
-      "sans_parcours": 58,
-      "pct_cat": 77.7,
-      "total_demarre": 79,
-      "pct_demarre": 39.1
+      "total": 249,
+      "avec_parcours": 192,
+      "sans_parcours": 57,
+      "pct_cat": 77.1,
+      "total_demarre": 70,
+      "pct_demarre": 36.5
     }
   }
 }
