@@ -249,6 +249,26 @@ html,body{overflow-x:hidden;max-width:100vw}
   .thead-g[style*="2fr 1.5fr 1fr 1fr 1fr 1fr"]>*:nth-child(6),.trow-g[style*="2fr 1.5fr 1fr 1fr 1fr 1fr"]>*:nth-child(6){display:none!important}
 }
 </style>
+
+<script>
+/* Cache-busting auto-reload — vérifie version.json à chaque visite */
+(function(){
+  var CURRENT = "2026-03-26 12:36";
+  var KEY = "mvt_dashboard_version";
+  function check(){
+    fetch("version.json?t="+Date.now())
+      .then(function(r){return r.json();})
+      .then(function(d){
+        if(d.version !== localStorage.getItem(KEY)){
+          localStorage.setItem(KEY, d.version);
+          if(d.version !== CURRENT){ location.reload(true); }
+        }
+      }).catch(function(){});
+  }
+  localStorage.setItem(KEY, CURRENT);
+  setTimeout(check, 1500);
+})();
+</script>
 </head>
 <body>
 
