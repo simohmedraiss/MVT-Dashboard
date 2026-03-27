@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27 18:01",
-  "file_date": "26/03/2026",
+  "generated_at": "2026-03-27 18:14",
+  "file_date": "27/03/2026",
   "p1": {
     "records": [
       {
@@ -18593,9 +18593,9 @@
         "lead": "Aziz EL MAGREN",
         "sbu": "Mining",
         "site": "Phosboucraa",
-        "pathway": "CAT D -> Pré-Idéation",
-        "pathway_key": "D",
-        "organisme": "LaunchX",
+        "pathway": "Quick wins -> Move Up",
+        "pathway_key": "QW",
+        "organisme": "MindX",
         "demarre": true,
         "periode": "04/12/2025 au 18/12/2025",
         "step": "Ideation"
@@ -18619,9 +18619,9 @@
         "lead": "Zouheir MAAGOUZ",
         "sbu": "Mining",
         "site": "Phosboucraa",
-        "pathway": "CAT C -> Pré-Idéation",
-        "pathway_key": "C",
-        "organisme": "LaunchX",
+        "pathway": "Quick wins -> Move Up",
+        "pathway_key": "QW",
+        "organisme": "MindX",
         "demarre": true,
         "periode": "04/12/2025 au 18/12/2025",
         "step": "Ideation"
@@ -19511,6 +19511,19 @@
         "step": "Categorization"
       },
       {
+        "id": 1270,
+        "name": "HUMANEXT",
+        "lead": "Mustapha HANOUN",
+        "sbu": "Manufacturing",
+        "site": "Jorf Lasfar",
+        "pathway": "CAT D -> Pré-Idéation",
+        "pathway_key": "D",
+        "organisme": "LaunchX",
+        "demarre": false,
+        "periode": "Non initié",
+        "step": "Categorization"
+      },
+      {
         "id": 1273,
         "name": "HSE ProCheck Lab",
         "lead": "Mohammed ES-SARHANI",
@@ -19745,6 +19758,19 @@
         "step": "Categorization"
       },
       {
+        "id": 1303,
+        "name": "Réducteur Maroc RedMa",
+        "lead": "Reda MOHSSINE",
+        "sbu": "Mining",
+        "site": "Khouribga",
+        "pathway": "CAT D -> Pré-Idéation",
+        "pathway_key": "D",
+        "organisme": "LaunchX",
+        "demarre": false,
+        "periode": "Non initié",
+        "step": "Categorization"
+      },
+      {
         "id": 1304,
         "name": "Déchiqueteur Pneus Industriel",
         "lead": "Zakariya KABIRI",
@@ -19779,6 +19805,19 @@
         "pathway": "CAT D -> Pré-Idéation",
         "pathway_key": "D",
         "organisme": "LaunchX",
+        "demarre": false,
+        "periode": "Non initié",
+        "step": "Categorization"
+      },
+      {
+        "id": 1307,
+        "name": "Situation FLOTAI",
+        "lead": "Anas ALLAM",
+        "sbu": "Mining",
+        "site": "Khouribga",
+        "pathway": "CAT A&B -> Idéation",
+        "pathway_key": "AB",
+        "organisme": "Le HUB",
         "demarre": false,
         "periode": "Non initié",
         "step": "Categorization"
@@ -19831,6 +19870,19 @@
         "pathway": "CAT A&B -> Idéation",
         "pathway_key": "AB",
         "organisme": "Le HUB",
+        "demarre": false,
+        "periode": "Non initié",
+        "step": "Categorization"
+      },
+      {
+        "id": 1312,
+        "name": "ReRoad",
+        "lead": "Ilyas BOUSAREHANE",
+        "sbu": "Mining",
+        "site": "Khouribga",
+        "pathway": "CAT C -> Pré-Idéation",
+        "pathway_key": "C",
+        "organisme": "LaunchX",
         "demarre": false,
         "periode": "Non initié",
         "step": "Categorization"
@@ -20013,6 +20065,32 @@
         "pathway": "CAT A&B -> Idéation",
         "pathway_key": "AB",
         "organisme": "Le HUB",
+        "demarre": false,
+        "periode": "Non initié",
+        "step": "Categorization"
+      },
+      {
+        "id": 1330,
+        "name": "Wash2build",
+        "lead": "Yousra BELMADI",
+        "sbu": "Mining",
+        "site": "Gantour",
+        "pathway": "Entrepreneurial Certificate",
+        "pathway_key": "F",
+        "organisme": "Le HUB",
+        "demarre": false,
+        "periode": "Non initié",
+        "step": "Categorization"
+      },
+      {
+        "id": 1331,
+        "name": "BAIBA, EL GHAOUAGH",
+        "lead": "Med Salem BELALEM",
+        "sbu": "Mining",
+        "site": "Phosboucraa",
+        "pathway": "CAT C -> Pré-Idéation",
+        "pathway_key": "C",
+        "organisme": "LaunchX",
         "demarre": false,
         "periode": "Non initié",
         "step": "Categorization"
@@ -20343,6 +20421,19 @@
         "step": "Categorization"
       },
       {
+        "id": 1378,
+        "name": "Sharing Experiences",
+        "lead": "Omar MOUTTAQUI",
+        "sbu": "Mining",
+        "site": "Casablanca",
+        "pathway": "CAT A&B -> Idéation",
+        "pathway_key": "AB",
+        "organisme": "Le HUB",
+        "demarre": false,
+        "periode": "Non initié",
+        "step": "Categorization"
+      },
+      {
         "id": 1379,
         "name": "GeoMotion",
         "lead": "Omar DAGHOUS",
@@ -20369,6 +20460,19 @@
         "step": "Categorization"
       },
       {
+        "id": 1383,
+        "name": "Occupational Health for All",
+        "lead": "Abdelhadi ELYACOUBI",
+        "sbu": "Mining",
+        "site": "Phosboucraa",
+        "pathway": "CAT D -> Pré-Idéation",
+        "pathway_key": "D",
+        "organisme": "LaunchX",
+        "demarre": false,
+        "periode": "Non initié",
+        "step": "Categorization"
+      },
+      {
         "id": 1395,
         "name": "Foncier: Levier de Valeur",
         "lead": "Sumaia RAISSOUNI",
@@ -20377,6 +20481,32 @@
         "pathway": "CAT A&B -> Idéation",
         "pathway_key": "AB",
         "organisme": "Le HUB",
+        "demarre": false,
+        "periode": "Non initié",
+        "step": "Categorization"
+      },
+      {
+        "id": 1396,
+        "name": "PHOSWATER",
+        "lead": "Ayoub BOUMEKRNI",
+        "sbu": "Mining",
+        "site": "Phosboucraa",
+        "pathway": "CAT D -> Pré-Idéation",
+        "pathway_key": "D",
+        "organisme": "LaunchX",
+        "demarre": false,
+        "periode": "Non initié",
+        "step": "Categorization"
+      },
+      {
+        "id": 1397,
+        "name": "OptiBurn",
+        "lead": "Abdelouahad ACHCHAR",
+        "sbu": "Mining",
+        "site": "Khouribga",
+        "pathway": "CAT D -> Pré-Idéation",
+        "pathway_key": "D",
+        "organisme": "LaunchX",
         "demarre": false,
         "periode": "Non initié",
         "step": "Categorization"
@@ -20412,121 +20542,122 @@
       "CAT A&B -> Demo Day": {
         "Manufacturing": 12,
         "Nutricrops": 2,
-        "Mining": 21,
+        "Mining": 23,
         "InnovX": 1,
         "SPS": 1,
         "OTED": 1,
         "Fondation Phosboucraa": 1,
         "UM6P": 1,
-        "Total": 40
+        "Total": 42
       },
       "CAT C -> Pré-idéation": {
         "Fondation Phosboucraa": 1,
-        "Mining": 40,
+        "Mining": 41,
         "Manufacturing": 2,
         "Corporate": 1,
         "UM6P": 1,
-        "Total": 45
+        "Total": 46
       },
       "CAT D -> Pré-idéation": {
         "Fondation Phosboucraa": 1,
-        "Mining": 60,
-        "Manufacturing": 17,
+        "Mining": 63,
+        "Manufacturing": 18,
         "UM6P": 3,
         "Corporate": 1,
         "Rock": 1,
         "Autre": 2,
         "OTED": 1,
-        "Total": 86
+        "Total": 90
       },
       "Quick Wins -> Move Up": {
         "Manufacturing": 9,
-        "Mining": 8,
+        "Mining": 10,
         "Corporate": 1,
-        "Total": 18
+        "Total": 20
       },
       "CAT F -> Entrepreneurial Certificate": {
-        "Mining": 3,
-        "Total": 3
+        "Mining": 4,
+        "Total": 4
       }
     },
     "site_section": {
       "CAT A&B -> Demo Day": {
         "Safi": 5,
-        "Khouribga": 14,
+        "Khouribga": 15,
         "Jorf Lasfar": 8,
         "Gantour": 6,
-        "Casablanca": 5,
+        "Casablanca": 6,
         "Phosboucraa": 2,
-        "Total": 40
+        "Total": 42
       },
       "CAT C -> Pré-idéation": {
         "Phosboucraa": 18,
-        "Khouribga": 14,
+        "Khouribga": 15,
         "Gantour": 8,
         "Safi": 2,
         "Jorf Lasfar": 2,
         "Casablanca": 1,
-        "Total": 45
+        "Total": 46
       },
       "CAT D -> Pré-idéation": {
-        "Phosboucraa": 16,
-        "Khouribga": 30,
-        "Jorf Lasfar": 10,
+        "Phosboucraa": 17,
+        "Khouribga": 32,
+        "Jorf Lasfar": 11,
         "Safi": 11,
         "Gantour": 18,
         "Casablanca": 1,
-        "Total": 86
+        "Total": 90
       },
       "Quick Wins -> Move Up": {
         "Jorf Lasfar": 8,
         "Khouribga": 4,
         "Casablanca": 1,
+        "Phosboucraa": 2,
         "Gantour": 3,
         "Safi": 2,
-        "Total": 18
+        "Total": 20
       },
       "CAT F -> Entrepreneurial Certificate": {
-        "Gantour": 2,
+        "Gantour": 3,
         "Phosboucraa": 1,
-        "Total": 3
+        "Total": 4
       }
     },
-    "total": 192,
+    "total": 202,
     "p2_stats": {
       "AB": {
-        "total": 40,
+        "total": 42,
         "demarre": 6
       },
       "C": {
-        "total": 45,
-        "demarre": 31
+        "total": 46,
+        "demarre": 30
       },
       "D": {
-        "total": 86,
-        "demarre": 27
+        "total": 90,
+        "demarre": 26
       },
       "QW": {
-        "total": 18,
-        "demarre": 6
+        "total": 20,
+        "demarre": 8
       },
       "F": {
-        "total": 3,
+        "total": 4,
         "demarre": 0
       }
     },
     "org_counts": {
-      "LaunchX": 131,
-      "Le HUB": 43,
-      "MindX": 18
+      "LaunchX": 136,
+      "Le HUB": 46,
+      "MindX": 20
     },
     "perimetre": {
       "total": 249,
-      "avec_parcours": 192,
-      "sans_parcours": 57,
-      "pct_cat": 77.1,
+      "avec_parcours": 202,
+      "sans_parcours": 47,
+      "pct_cat": 81.1,
       "total_demarre": 70,
-      "pct_demarre": 36.5
+      "pct_demarre": 34.7
     }
   }
 }
